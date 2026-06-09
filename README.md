@@ -1,6 +1,6 @@
 # 🏛️ Portal Penanggulangan Kemiskinan & Analisis Data BPS (AITECHID)
 
-Portal Penanggulangan Kemiskinan adalah platform analisis data spasial dan kuantitatif terintegrasi yang dirancang untuk mendukung pengambilan keputusan kebijakan sosial secara presisi. Platform ini memetakan, menganalisis, dan mengeksplorasi data ** Data Terpadu** nasional yang dinamis serta data kemiskinan makro dari Badan Pusat Statistik (BPS).
+Portal Penanggulangan Kemiskinan adalah platform analisis data spasial dan kuantitatif terintegrasi yang dirancang untuk mendukung pengambilan keputusan kebijakan sosial secara presisi. Platform ini memetakan, menganalisis, dan mengeksplorasi data **Data Terpadu** nasional yang dinamis serta data kemiskinan makro dari Badan Pusat Statistik (BPS).
 
 ---
 
