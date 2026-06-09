@@ -71,8 +71,8 @@ export default function Home() {
               <Link href="/login" className="bg-[#0f2c59] hover:bg-[#163c75] border border-white/5 text-white px-8 py-3.5 rounded text-xs font-bold uppercase tracking-wider transition-all text-center shadow-lg">
                 Akses Analyst Console
               </Link>
-              <a href="#features" className="bg-white/[0.02] border border-white/5 hover:bg-white/[0.04] text-slate-300 hover:text-white px-8 py-3.5 rounded text-xs font-bold uppercase tracking-wider transition-all text-center">
-                Panduan Teknis
+              <a href="https://github.com/aitechid/povapp.git" target="_blank" rel="noopener noreferrer" className="bg-white/[0.02] border border-white/5 hover:bg-white/[0.04] text-slate-300 hover:text-white px-8 py-3.5 rounded text-xs font-bold uppercase tracking-wider transition-all text-center">
+                Unduh Kode
               </a>
             </div>
           </div>
