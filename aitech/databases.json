@@ -1,0 +1,36 @@
+[
+  {
+    "id": "aitech",
+    "name": "aitech.db",
+    "fileName": "aitech.db",
+    "path": "C:\\Users\\avudz\\Kiro\\Kemiskinan\\aitech\\aitech.db",
+    "sizeBytes": 14929920,
+    "sizeMB": "14.24",
+    "lastModified": "2026-06-09",
+    "owner": "AITECH Ingestion",
+    "quality": "98.5% (Sangat Baik)",
+    "description": "Database PBDT Nasional terintegrasi AITECHID.",
+    "tables": [
+      {
+        "tableName": "household_pbdt",
+        "rows": 50000,
+        "columns": 68
+      },
+      {
+        "tableName": "household_pbdt_metadata",
+        "rows": 68,
+        "columns": 2
+      },
+      {
+        "tableName": "individual_pbdt",
+        "rows": 50000,
+        "columns": 107
+      },
+      {
+        "tableName": "individual_pbdt_metadata",
+        "rows": 107,
+        "columns": 2
+      }
+    ]
+  }
+]

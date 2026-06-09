@@ -7,7 +7,7 @@ export default function Home() {
       {/* Decorative Background Glows */}
       <div className="absolute top-[-20%] left-[-10%] w-[60%] h-[60%] bg-[radial-gradient(circle,rgba(56,189,248,0.08)_0%,transparent_80%)] pointer-events-none filter blur-[100px]" />
       <div className="absolute bottom-[-10%] right-[-10%] w-[60%] h-[60%] bg-[radial-gradient(circle,rgba(96,165,250,0.05)_0%,transparent_80%)] pointer-events-none filter blur-[100px]" />
-      <div 
+      <div
         className="absolute inset-0 opacity-100 pointer-events-none"
         style={{
           backgroundImage: "radial-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px)",
@@ -30,7 +30,7 @@ export default function Home() {
               <span className="text-[9px] font-bold tracking-widest text-slate-400 uppercase mt-0.5 block">Poverty Analytics Platform</span>
             </div>
           </div>
-          
+
           <nav className="hidden md:flex items-center gap-10 text-xs font-semibold uppercase tracking-widest text-slate-400">
             <a href="#features" className="hover:text-white transition-colors">Modul Sistem</a>
             <a href="#metrics" className="hover:text-white transition-colors">Dashboard Telemetri</a>
@@ -55,14 +55,14 @@ export default function Home() {
               <span className="w-1.5 h-1.5 rounded-full bg-[#38bdf8] animate-pulse"></span>
               KONSOL PEMETAAN DATA NASIONAL v2.6
             </div>
-            
+
             <h1 className="font-title font-extrabold text-3xl sm:text-4xl lg:text-5xl text-white leading-tight tracking-tight">
               Sistem Informasi Intelijen <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 to-blue-500">
                 Penanggulangan Kemiskinan
               </span>
             </h1>
-            
+
             <p className="text-slate-400 text-sm sm:text-base leading-relaxed max-w-xl">
               Konsol data analitik terpadu untuk percepatan penghapusan kemiskinan ekstrem melalui integrasi dataset spasial (GIS), analisis demografis kewilayahan, serta evaluasi jangkauan program bantuan sosial secara real-time.
             </p>
@@ -76,7 +76,7 @@ export default function Home() {
               </a>
             </div>
           </div>
-          
+
           {/* Premium Dashboard Preview Mockup */}
           <div className="lg:col-span-6">
             <div className="relative bg-[#0b132b] border border-white/6 rounded p-3 shadow-2xl flex flex-col gap-3">
@@ -90,7 +90,7 @@ export default function Home() {
                 <span className="text-[9px] font-bold tracking-widest text-slate-500 uppercase">AitechID Console Dashboard Preview</span>
                 <div className="w-10"></div>
               </div>
-              
+
               {/* Mockup Content */}
               <div className="grid grid-cols-3 gap-2">
                 <div className="bg-[#070d19]/40 border border-white/5 p-3 rounded">
@@ -109,27 +109,27 @@ export default function Home() {
                   <span className="text-[8px] text-amber-500 font-semibold block mt-0.5">Prioritas 1</span>
                 </div>
               </div>
-              
+
               {/* Mockup Map Visual */}
               <div className="h-48 bg-[#070d19]/50 border border-white/5 rounded relative overflow-hidden flex items-center justify-center">
-                <div 
+                <div
                   className="absolute inset-0 opacity-30"
                   style={{
                     backgroundImage: "radial-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px)",
                     backgroundSize: "32px 32px"
                   }}
                 />
-                
+
                 {/* Sleek SVG Outline Map representation */}
                 <svg className="w-3/4 h-3/4 text-white/[0.04]" fill="none" stroke="currentColor" strokeWidth="1" viewBox="0 0 100 40" xmlns="http://www.w3.org/2000/svg">
                   <path strokeLinecap="round" strokeLinejoin="round" d="M5 25 C15 30 25 10 40 22 C55 34 65 15 80 25 M20 15 L35 25 L50 20 L65 30 L85 10" />
                 </svg>
-                
+
                 {/* Nodes */}
                 <span className="absolute top-1/2 left-[30%] w-2 h-2 bg-[#38bdf8] rounded-full ring-4 ring-[#38bdf8]/20"></span>
                 <span className="absolute top-[40%] left-[55%] w-2 h-2 bg-amber-500 rounded-full ring-4 ring-amber-500/20 animate-pulse"></span>
                 <span className="absolute top-[30%] left-[75%] w-2 h-2 bg-[#ef4444] rounded-full ring-4 ring-[#ef4444]/20"></span>
-                
+
                 {/* Scale tooltip inside mockup */}
                 <div className="absolute bottom-2 left-2 bg-[#070d19]/90 border border-white/10 px-2 py-1 rounded text-[8px] space-y-0.5 text-slate-400">
                   <span className="font-bold text-white block">Persentase Spasial</span>
@@ -185,7 +185,7 @@ export default function Home() {
               <h3 className="font-title font-bold text-base text-white">Choropleth Spasial (GIS)</h3>
               <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">Visualisasi spasial yang mendalam untuk melihat persebaran rasio kemiskinan pada tingkat Nasional, Provinsi, hingga Kabupaten/Kota.</p>
             </div>
-            
+
             {/* Feature 2 */}
             <div className="border border-white/6 hover:border-[#38bdf8]/35 hover:bg-white/[0.02] transition-all duration-300 p-8 bg-[#0b132b]/30 rounded flex flex-col gap-4">
               <span className="material-symbols-outlined text-[#38bdf8] text-3xl">analytics</span>
@@ -222,7 +222,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            
+
             {/* Architecture Diagram Visual Mockup */}
             <div className="border border-white/6 p-6 bg-[#0b132b]/40 rounded flex flex-col gap-4">
               <span className="text-[9px] font-bold text-slate-500 uppercase tracking-widest block border-b border-white/5 pb-2">Arsitektur Aliran Data</span>
@@ -253,7 +253,7 @@ export default function Home() {
           <div className="flex items-center gap-3">
             <span className="text-white font-bold tracking-tight">AITECHID</span>
             <span>|</span>
-            <p>Hak Cipta © 2026 Portal Penanggulangan Kemiskinan dan Analisis - Republik Indonesia</p>
+            <p>Hak Cipta © 2026 - https://aitech.id - info (at) aitech dot id</p>
           </div>
           <div className="flex gap-6">
             <a href="#" className="hover:text-slate-300">Kebijakan Privasi</a>
