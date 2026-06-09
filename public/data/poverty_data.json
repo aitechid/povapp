@@ -1,0 +1,3713 @@
+{
+  "ACEH": {
+    "name": "ACEH",
+    "kpi": {
+      "poverty_rate_percent": 12.33,
+      "poverty_rate_percent_s2": 12.22,
+      "poor_population_thousands": 704.69,
+      "poor_population_thousands_s2": 703.33,
+      "poverty_line_rupiah": 515075.0,
+      "poverty_line_rupiah_s2": 547511.0,
+      "p1_depth_index": 1.76,
+      "urban_p0": 8.54,
+      "rural_p0": 14.44,
+      "urban_num_thousands": 174.18,
+      "rural_num_thousands": 530.51
+    },
+    "districts": [
+      {
+        "name": "Aceh Barat",
+        "poverty_rate_percent": 15.5,
+        "poor_population_thousands": 34.55,
+        "poverty_line_rupiah": 652009.0
+      },
+      {
+        "name": "Aceh Barat Daya",
+        "poverty_rate_percent": 13.3,
+        "poor_population_thousands": 21.47,
+        "poverty_line_rupiah": 525947.0
+      },
+      {
+        "name": "Aceh Besar",
+        "poverty_rate_percent": 11.05,
+        "poor_population_thousands": 49.9,
+        "poverty_line_rupiah": 598160.0
+      },
+      {
+        "name": "Aceh Jaya",
+        "poverty_rate_percent": 10.37,
+        "poor_population_thousands": 10.5,
+        "poverty_line_rupiah": 542092.0
+      },
+      {
+        "name": "Aceh Selatan",
+        "poverty_rate_percent": 9.89,
+        "poor_population_thousands": 25.39,
+        "poverty_line_rupiah": 538174.0
+      },
+      {
+        "name": "Aceh Singkil",
+        "poverty_rate_percent": 17.07,
+        "poor_population_thousands": 22.51,
+        "poverty_line_rupiah": 619322.0
+      },
+      {
+        "name": "Aceh Tamiang",
+        "poverty_rate_percent": 10.84,
+        "poor_population_thousands": 33.96,
+        "poverty_line_rupiah": 590294.0
+      },
+      {
+        "name": "Aceh Tengah",
+        "poverty_rate_percent": 12.29,
+        "poor_population_thousands": 27.76,
+        "poverty_line_rupiah": 636315.0
+      },
+      {
+        "name": "Aceh Tenggara",
+        "poverty_rate_percent": 9.78,
+        "poor_population_thousands": 22.52,
+        "poverty_line_rupiah": 502074.0
+      },
+      {
+        "name": "Aceh Timur",
+        "poverty_rate_percent": 11.24,
+        "poor_population_thousands": 52.23,
+        "poverty_line_rupiah": 564943.0
+      },
+      {
+        "name": "Aceh Utara",
+        "poverty_rate_percent": 14.27,
+        "poor_population_thousands": 93.43,
+        "poverty_line_rupiah": 483719.0
+      },
+      {
+        "name": "Bener Meriah",
+        "poverty_rate_percent": 16.2,
+        "poor_population_thousands": 25.59,
+        "poverty_line_rupiah": 602421.0
+      },
+      {
+        "name": "Bireuen",
+        "poverty_rate_percent": 10.3,
+        "poor_population_thousands": 51.6,
+        "poverty_line_rupiah": 503866.0
+      },
+      {
+        "name": "Gayo Lues",
+        "poverty_rate_percent": 16.77,
+        "poor_population_thousands": 16.59,
+        "poverty_line_rupiah": 567201.0
+      },
+      {
+        "name": "Kota Banda Aceh",
+        "poverty_rate_percent": 5.45,
+        "poor_population_thousands": 15.87,
+        "poverty_line_rupiah": 872944.0
+      },
+      {
+        "name": "Kota Langsa",
+        "poverty_rate_percent": 8.59,
+        "poor_population_thousands": 16.28,
+        "poverty_line_rupiah": 554363.0
+      },
+      {
+        "name": "Kota Lhokseumawe",
+        "poverty_rate_percent": 9.01,
+        "poor_population_thousands": 19.9,
+        "poverty_line_rupiah": 529671.0
+      },
+      {
+        "name": "Kota Sabang",
+        "poverty_rate_percent": 12.75,
+        "poor_population_thousands": 4.55,
+        "poverty_line_rupiah": 736956.0
+      },
+      {
+        "name": "Kota Subulussalam",
+        "poverty_rate_percent": 13.88,
+        "poor_population_thousands": 11.95,
+        "poverty_line_rupiah": 514372.0
+      },
+      {
+        "name": "Nagan Raya",
+        "poverty_rate_percent": 15.42,
+        "poor_population_thousands": 27.24,
+        "poverty_line_rupiah": 642820.0
+      },
+      {
+        "name": "Pidie",
+        "poverty_rate_percent": 16.46,
+        "poor_population_thousands": 77.7,
+        "poverty_line_rupiah": 618445.0
+      },
+      {
+        "name": "Pidie Jaya",
+        "poverty_rate_percent": 16.12,
+        "poor_population_thousands": 27.62,
+        "poverty_line_rupiah": 610755.0
+      },
+      {
+        "name": "Simeulue",
+        "poverty_rate_percent": 15.52,
+        "poor_population_thousands": 15.58,
+        "poverty_line_rupiah": 586505.0
+      }
+    ]
+  },
+  "BALI": {
+    "name": "BALI",
+    "kpi": {
+      "poverty_rate_percent": 3.72,
+      "poverty_rate_percent_s2": 3.42,
+      "poor_population_thousands": 173.24,
+      "poor_population_thousands_s2": 160.09,
+      "poverty_line_rupiah": 419319.0,
+      "poverty_line_rupiah_s2": 445225.0,
+      "p1_depth_index": 0.53,
+      "urban_p0": 3.27,
+      "rural_p0": 4.97,
+      "urban_num_thousands": 112.17,
+      "rural_num_thousands": 61.07
+    },
+    "districts": [
+      {
+        "name": "Badung",
+        "poverty_rate_percent": 1.9,
+        "poor_population_thousands": 14.66,
+        "poverty_line_rupiah": 769560.0
+      },
+      {
+        "name": "Bangli",
+        "poverty_rate_percent": 4.83,
+        "poor_population_thousands": 11.28,
+        "poverty_line_rupiah": 486007.0
+      },
+      {
+        "name": "Buleleng",
+        "poverty_rate_percent": 5.2,
+        "poor_population_thousands": 35.39,
+        "poverty_line_rupiah": 592706.0
+      },
+      {
+        "name": "Gianyar",
+        "poverty_rate_percent": 3.71,
+        "poor_population_thousands": 20.0,
+        "poverty_line_rupiah": 522497.0
+      },
+      {
+        "name": "Jembrana",
+        "poverty_rate_percent": 4.33,
+        "poor_population_thousands": 12.45,
+        "poverty_line_rupiah": 554136.0
+      },
+      {
+        "name": "Karangasem",
+        "poverty_rate_percent": 6.4,
+        "poor_population_thousands": 27.32,
+        "poverty_line_rupiah": 453685.0
+      },
+      {
+        "name": "Klungkung",
+        "poverty_rate_percent": 5.18,
+        "poor_population_thousands": 9.48,
+        "poverty_line_rupiah": 427844.0
+      },
+      {
+        "name": "Kota Denpasar",
+        "poverty_rate_percent": 2.16,
+        "poor_population_thousands": 23.2,
+        "poverty_line_rupiah": 862522.0
+      },
+      {
+        "name": "Tabanan",
+        "poverty_rate_percent": 4.23,
+        "poor_population_thousands": 19.45,
+        "poverty_line_rupiah": 628223.0
+      }
+    ]
+  },
+  "BANTEN": {
+    "name": "BANTEN",
+    "kpi": {
+      "poverty_rate_percent": 5.63,
+      "poverty_rate_percent_s2": 5.51,
+      "poor_population_thousands": 772.78,
+      "poor_population_thousands_s2": 760.85,
+      "poverty_line_rupiah": 499525.0,
+      "poverty_line_rupiah_s2": 524678.0,
+      "p1_depth_index": 0.8,
+      "urban_p0": 5.58,
+      "rural_p0": 5.89,
+      "urban_num_thousands": 627.88,
+      "rural_num_thousands": 144.9
+    },
+    "districts": [
+      {
+        "name": "Kota Cilegon",
+        "poverty_rate_percent": 3.44,
+        "poor_population_thousands": 16.05,
+        "poverty_line_rupiah": 696397.0
+      },
+      {
+        "name": "Kota Serang",
+        "poverty_rate_percent": 5.51,
+        "poor_population_thousands": 41.07,
+        "poverty_line_rupiah": 556702.0
+      },
+      {
+        "name": "Kota Tangerang",
+        "poverty_rate_percent": 5.19,
+        "poor_population_thousands": 124.76,
+        "poverty_line_rupiah": 838535.0
+      },
+      {
+        "name": "Kota Tangerang Selatan",
+        "poverty_rate_percent": 2.39,
+        "poor_population_thousands": 44.61,
+        "poverty_line_rupiah": 864323.0
+      },
+      {
+        "name": "Lebak",
+        "poverty_rate_percent": 8.03,
+        "poor_population_thousands": 106.52,
+        "poverty_line_rupiah": 455831.0
+      },
+      {
+        "name": "Pandeglang",
+        "poverty_rate_percent": 8.51,
+        "poor_population_thousands": 105.35,
+        "poverty_line_rupiah": 501772.0
+      },
+      {
+        "name": "Serang",
+        "poverty_rate_percent": 4.48,
+        "poor_population_thousands": 68.51,
+        "poverty_line_rupiah": 461388.0
+      },
+      {
+        "name": "Tangerang",
+        "poverty_rate_percent": 6.42,
+        "poor_population_thousands": 265.9,
+        "poverty_line_rupiah": 655324.0
+      }
+    ]
+  },
+  "BENGKULU": {
+    "name": "BENGKULU",
+    "kpi": {
+      "poverty_rate_percent": 12.08,
+      "poverty_rate_percent_s2": 11.88,
+      "poor_population_thousands": 252.97,
+      "poor_population_thousands_s2": 250.19,
+      "poverty_line_rupiah": 503475.0,
+      "poverty_line_rupiah_s2": 524945.0,
+      "p1_depth_index": 1.73,
+      "urban_p0": 12.34,
+      "rural_p0": 11.95,
+      "urban_num_thousands": 87.39,
+      "rural_num_thousands": 165.58
+    },
+    "districts": [
+      {
+        "name": "Bengkulu Selatan",
+        "poverty_rate_percent": 15.72,
+        "poor_population_thousands": 29.82,
+        "poverty_line_rupiah": 500588.0
+      },
+      {
+        "name": "Bengkulu Tengah",
+        "poverty_rate_percent": 9.74,
+        "poor_population_thousands": 11.61,
+        "poverty_line_rupiah": 595054.0
+      },
+      {
+        "name": "Bengkulu Utara",
+        "poverty_rate_percent": 10.07,
+        "poor_population_thousands": 31.99,
+        "poverty_line_rupiah": 493892.0
+      },
+      {
+        "name": "Kaur",
+        "poverty_rate_percent": 15.82,
+        "poor_population_thousands": 20.26,
+        "poverty_line_rupiah": 443789.0
+      },
+      {
+        "name": "Kepahiang",
+        "poverty_rate_percent": 10.38,
+        "poor_population_thousands": 15.2,
+        "poverty_line_rupiah": 496275.0
+      },
+      {
+        "name": "Kota Bengkulu",
+        "poverty_rate_percent": 11.91,
+        "poor_population_thousands": 46.23,
+        "poverty_line_rupiah": 840710.0
+      },
+      {
+        "name": "Lebong",
+        "poverty_rate_percent": 10.1,
+        "poor_population_thousands": 12.2,
+        "poverty_line_rupiah": 540904.0
+      },
+      {
+        "name": "Mukomuko",
+        "poverty_rate_percent": 10.05,
+        "poor_population_thousands": 19.67,
+        "poverty_line_rupiah": 575283.0
+      },
+      {
+        "name": "Rejang Lebong",
+        "poverty_rate_percent": 11.71,
+        "poor_population_thousands": 33.19,
+        "poverty_line_rupiah": 604697.0
+      },
+      {
+        "name": "Seluma",
+        "poverty_rate_percent": 15.98,
+        "poor_population_thousands": 32.81,
+        "poverty_line_rupiah": 513037.0
+      }
+    ]
+  },
+  "DI YOGYAKARTA": {
+    "name": "DI YOGYAKARTA",
+    "kpi": {
+      "poverty_rate_percent": 10.23,
+      "poverty_rate_percent_s2": 10.08,
+      "poor_population_thousands": 425.82,
+      "poor_population_thousands_s2": 422.79,
+      "poverty_line_rupiah": 457221.0,
+      "poverty_line_rupiah_s2": 473070.0,
+      "p1_depth_index": 1.46,
+      "urban_p0": 10.16,
+      "rural_p0": 10.46,
+      "urban_num_thousands": 321.04,
+      "rural_num_thousands": 104.77
+    },
+    "districts": []
+  },
+  "DKI JAKARTA": {
+    "name": "DKI JAKARTA",
+    "kpi": {
+      "poverty_rate_percent": 4.28,
+      "poverty_rate_percent_s2": 4.03,
+      "poor_population_thousands": 464.87,
+      "poor_population_thousands_s2": 439.12,
+      "poverty_line_rupiah": 591933.0,
+      "poverty_line_rupiah_s2": 622175.0,
+      "p1_depth_index": 0.61,
+      "urban_p0": 4.28,
+      "rural_p0": null,
+      "urban_num_thousands": 464.87,
+      "rural_num_thousands": null
+    },
+    "districts": [
+      {
+        "name": "Kepulauan Seribu",
+        "poverty_rate_percent": 12.37,
+        "poor_population_thousands": 3.35,
+        "poverty_line_rupiah": 801734.0
+      },
+      {
+        "name": "Kota Jakarta Barat",
+        "poverty_rate_percent": 3.91,
+        "poor_population_thousands": 106.39,
+        "poverty_line_rupiah": 707669.0
+      },
+      {
+        "name": "Kota Jakarta Pusat",
+        "poverty_rate_percent": 4.7,
+        "poor_population_thousands": 43.06,
+        "poverty_line_rupiah": 846307.0
+      },
+      {
+        "name": "Kota Jakarta Selatan",
+        "poverty_rate_percent": 3.23,
+        "poor_population_thousands": 75.66,
+        "poverty_line_rupiah": 959133.0
+      },
+      {
+        "name": "Kota Jakarta Timur",
+        "poverty_rate_percent": 3.94,
+        "poor_population_thousands": 117.4,
+        "poverty_line_rupiah": 720813.0
+      },
+      {
+        "name": "Kota Jakarta Utara",
+        "poverty_rate_percent": 6.33,
+        "poor_population_thousands": 119.02,
+        "poverty_line_rupiah": 736415.0
+      }
+    ]
+  },
+  "GORONTALO": {
+    "name": "GORONTALO",
+    "kpi": {
+      "poverty_rate_percent": 13.24,
+      "poverty_rate_percent_s2": 12.62,
+      "poor_population_thousands": 162.74,
+      "poor_population_thousands_s2": 155.76,
+      "poverty_line_rupiah": 384890.0,
+      "poverty_line_rupiah_s2": 404784.0,
+      "p1_depth_index": 1.89,
+      "urban_p0": 4.68,
+      "rural_p0": 20.8,
+      "urban_num_thousands": 27.01,
+      "rural_num_thousands": 135.73
+    },
+    "districts": [
+      {
+        "name": "Boalemo",
+        "poverty_rate_percent": 16.37,
+        "poor_population_thousands": 29.4,
+        "poverty_line_rupiah": 560482.0
+      },
+      {
+        "name": "Bone Bolango",
+        "poverty_rate_percent": 13.16,
+        "poor_population_thousands": 21.11,
+        "poverty_line_rupiah": 555489.0
+      },
+      {
+        "name": "Gorontalo",
+        "poverty_rate_percent": 14.89,
+        "poor_population_thousands": 56.13,
+        "poverty_line_rupiah": 635880.0
+      },
+      {
+        "name": "Gorontalo Utara",
+        "poverty_rate_percent": 15.89,
+        "poor_population_thousands": 17.9,
+        "poverty_line_rupiah": 424573.0
+      },
+      {
+        "name": "Kota Gorontalo",
+        "poverty_rate_percent": 5.31,
+        "poor_population_thousands": 12.12,
+        "poverty_line_rupiah": 731952.0
+      },
+      {
+        "name": "Pohuwato",
+        "poverty_rate_percent": 15.24,
+        "poor_population_thousands": 26.1,
+        "poverty_line_rupiah": 427572.0
+      }
+    ]
+  },
+  "INDONESIA": {
+    "name": "INDONESIA",
+    "kpi": {
+      "poverty_rate_percent": 8.47,
+      "poverty_rate_percent_s2": 8.25,
+      "poor_population_thousands": 23854.56,
+      "poor_population_thousands_s2": 23359.71,
+      "poverty_line_rupiah": 454299.0,
+      "poverty_line_rupiah_s2": 478955.0,
+      "p1_depth_index": 1.21,
+      "urban_p0": 6.73,
+      "rural_p0": 11.03,
+      "urban_num_thousands": 11269.83,
+      "rural_num_thousands": 12584.73
+    },
+    "districts": []
+  },
+  "JAMBI": {
+    "name": "JAMBI",
+    "kpi": {
+      "poverty_rate_percent": 7.19,
+      "poverty_rate_percent_s2": 6.89,
+      "poor_population_thousands": 270.94,
+      "poor_population_thousands_s2": 261.25,
+      "poverty_line_rupiah": 501425.0,
+      "poverty_line_rupiah_s2": 542466.0,
+      "p1_depth_index": 1.03,
+      "urban_p0": 9.52,
+      "rural_p0": 6.01,
+      "urban_num_thousands": 120.3,
+      "rural_num_thousands": 150.64
+    },
+    "districts": [
+      {
+        "name": "Batang Hari",
+        "poverty_rate_percent": 8.27,
+        "poor_population_thousands": 22.83,
+        "poverty_line_rupiah": 622440.0
+      },
+      {
+        "name": "Bungo",
+        "poverty_rate_percent": 5.17,
+        "poor_population_thousands": 20.73,
+        "poverty_line_rupiah": 619464.0
+      },
+      {
+        "name": "Kerinci",
+        "poverty_rate_percent": 7.48,
+        "poor_population_thousands": 18.28,
+        "poverty_line_rupiah": 617362.0
+      },
+      {
+        "name": "Kota Jambi",
+        "poverty_rate_percent": 7.69,
+        "poor_population_thousands": 47.21,
+        "poverty_line_rupiah": 773124.0
+      },
+      {
+        "name": "Kota Sungai Penuh",
+        "poverty_rate_percent": 3.23,
+        "poor_population_thousands": 2.87,
+        "poverty_line_rupiah": 622995.0
+      },
+      {
+        "name": "Merangin",
+        "poverty_rate_percent": 8.07,
+        "poor_population_thousands": 32.38,
+        "poverty_line_rupiah": 629000.0
+      },
+      {
+        "name": "Muaro Jambi",
+        "poverty_rate_percent": 4.32,
+        "poor_population_thousands": 21.05,
+        "poverty_line_rupiah": 633575.0
+      },
+      {
+        "name": "Sarolangun",
+        "poverty_rate_percent": 8.74,
+        "poor_population_thousands": 28.08,
+        "poverty_line_rupiah": 625401.0
+      },
+      {
+        "name": "Tanjung Jabung Barat",
+        "poverty_rate_percent": 9.67,
+        "poor_population_thousands": 33.88,
+        "poverty_line_rupiah": 586789.0
+      },
+      {
+        "name": "Tanjung Jabung Timur",
+        "poverty_rate_percent": 9.96,
+        "poor_population_thousands": 21.54,
+        "poverty_line_rupiah": 601104.0
+      },
+      {
+        "name": "Tebo",
+        "poverty_rate_percent": 5.97,
+        "poor_population_thousands": 22.1,
+        "poverty_line_rupiah": 602105.0
+      }
+    ]
+  },
+  "JAWA BARAT": {
+    "name": "JAWA BARAT",
+    "kpi": {
+      "poverty_rate_percent": 7.02,
+      "poverty_rate_percent_s2": 6.78,
+      "poor_population_thousands": 3654.74,
+      "poor_population_thousands_s2": 3550.71,
+      "poverty_line_rupiah": 410143.0,
+      "poverty_line_rupiah_s2": 430422.0,
+      "p1_depth_index": 1.0,
+      "urban_p0": 6.76,
+      "rural_p0": 8.15,
+      "urban_num_thousands": 2846.48,
+      "rural_num_thousands": 808.26
+    },
+    "districts": [
+      {
+        "name": "Bandung",
+        "poverty_rate_percent": 6.04,
+        "poor_population_thousands": 236.06,
+        "poverty_line_rupiah": 468974.0
+      },
+      {
+        "name": "Bandung Barat",
+        "poverty_rate_percent": 9.87,
+        "poor_population_thousands": 169.66,
+        "poverty_line_rupiah": 471101.0
+      },
+      {
+        "name": "Bekasi",
+        "poverty_rate_percent": 4.36,
+        "poor_population_thousands": 191.0,
+        "poverty_line_rupiah": 698154.0
+      },
+      {
+        "name": "Bogor",
+        "poverty_rate_percent": 6.26,
+        "poor_population_thousands": 401.86,
+        "poverty_line_rupiah": 531412.0
+      },
+      {
+        "name": "Ciamis",
+        "poverty_rate_percent": 7.19,
+        "poor_population_thousands": 88.72,
+        "poverty_line_rupiah": 483644.0
+      },
+      {
+        "name": "Cianjur",
+        "poverty_rate_percent": 9.82,
+        "poor_population_thousands": 232.61,
+        "poverty_line_rupiah": 482562.0
+      },
+      {
+        "name": "Cirebon",
+        "poverty_rate_percent": 10.23,
+        "poor_population_thousands": 229.64,
+        "poverty_line_rupiah": 491604.0
+      },
+      {
+        "name": "Garut",
+        "poverty_rate_percent": 9.39,
+        "poor_population_thousands": 252.56,
+        "poverty_line_rupiah": 407191.0
+      },
+      {
+        "name": "Indramayu",
+        "poverty_rate_percent": 11.02,
+        "poor_population_thousands": 196.78,
+        "poverty_line_rupiah": 578169.0
+      },
+      {
+        "name": "Karawang",
+        "poverty_rate_percent": 7.08,
+        "poor_population_thousands": 169.8,
+        "poverty_line_rupiah": 617901.0
+      },
+      {
+        "name": "Kota Bandung",
+        "poverty_rate_percent": 3.78,
+        "poor_population_thousands": 99.12,
+        "poverty_line_rupiah": 644417.0
+      },
+      {
+        "name": "Kota Banjar",
+        "poverty_rate_percent": 5.73,
+        "poor_population_thousands": 10.97,
+        "poverty_line_rupiah": 451277.0
+      },
+      {
+        "name": "Kota Bekasi",
+        "poverty_rate_percent": 3.96,
+        "poor_population_thousands": 129.54,
+        "poverty_line_rupiah": 864601.0
+      },
+      {
+        "name": "Kota Bogor",
+        "poverty_rate_percent": 5.89,
+        "poor_population_thousands": 67.16,
+        "poverty_line_rupiah": 730079.0
+      },
+      {
+        "name": "Kota Cimahi",
+        "poverty_rate_percent": 4.2,
+        "poor_population_thousands": 25.97,
+        "poverty_line_rupiah": 642016.0
+      },
+      {
+        "name": "Kota Cirebon",
+        "poverty_rate_percent": 8.66,
+        "poor_population_thousands": 28.12,
+        "poverty_line_rupiah": 571809.0
+      },
+      {
+        "name": "Kota Depok",
+        "poverty_rate_percent": 2.31,
+        "poor_population_thousands": 63.45,
+        "poverty_line_rupiah": 884633.0
+      },
+      {
+        "name": "Kota Sukabumi",
+        "poverty_rate_percent": 6.9,
+        "poor_population_thousands": 23.17,
+        "poverty_line_rupiah": 706415.0
+      },
+      {
+        "name": "Kota Tasikmalaya",
+        "poverty_rate_percent": 10.84,
+        "poor_population_thousands": 75.22,
+        "poverty_line_rupiah": 591600.0
+      },
+      {
+        "name": "Kuningan",
+        "poverty_rate_percent": 10.74,
+        "poor_population_thousands": 119.67,
+        "poverty_line_rupiah": 435184.0
+      },
+      {
+        "name": "Majalengka",
+        "poverty_rate_percent": 10.31,
+        "poor_population_thousands": 128.67,
+        "poverty_line_rupiah": 566574.0
+      },
+      {
+        "name": "Pangandaran",
+        "poverty_rate_percent": 8.03,
+        "poor_population_thousands": 33.09,
+        "poverty_line_rupiah": 486285.0
+      },
+      {
+        "name": "Purwakarta",
+        "poverty_rate_percent": 7.87,
+        "poor_population_thousands": 76.51,
+        "poverty_line_rupiah": 483968.0
+      },
+      {
+        "name": "Subang",
+        "poverty_rate_percent": 9.23,
+        "poor_population_thousands": 148.99,
+        "poverty_line_rupiah": 449186.0
+      },
+      {
+        "name": "Sukabumi",
+        "poverty_rate_percent": 6.41,
+        "poor_population_thousands": 164.63,
+        "poverty_line_rupiah": 431785.0
+      },
+      {
+        "name": "Sumedang",
+        "poverty_rate_percent": 8.81,
+        "poor_population_thousands": 105.82,
+        "poverty_line_rupiah": 436490.0
+      },
+      {
+        "name": "Tasikmalaya",
+        "poverty_rate_percent": 10.15,
+        "poor_population_thousands": 185.99,
+        "poverty_line_rupiah": 413178.0
+      }
+    ]
+  },
+  "JAWA TENGAH": {
+    "name": "JAWA TENGAH",
+    "kpi": {
+      "poverty_rate_percent": 9.48,
+      "poverty_rate_percent_s2": 9.39,
+      "poor_population_thousands": 3366.69,
+      "poor_population_thousands_s2": 3344.82,
+      "poverty_line_rupiah": 407576.0,
+      "poverty_line_rupiah_s2": 432788.0,
+      "p1_depth_index": 1.35,
+      "urban_p0": 9.1,
+      "rural_p0": 9.92,
+      "urban_num_thousands": 1746.72,
+      "rural_num_thousands": 1619.97
+    },
+    "districts": [
+      {
+        "name": "Banjarnegara",
+        "poverty_rate_percent": 13.28,
+        "poor_population_thousands": 124.66,
+        "poverty_line_rupiah": 424316.0
+      },
+      {
+        "name": "Banyumas",
+        "poverty_rate_percent": 11.15,
+        "poor_population_thousands": 194.87,
+        "poverty_line_rupiah": 529310.0
+      },
+      {
+        "name": "Batang",
+        "poverty_rate_percent": 7.79,
+        "poor_population_thousands": 61.75,
+        "poverty_line_rupiah": 436936.0
+      },
+      {
+        "name": "Blora",
+        "poverty_rate_percent": 10.58,
+        "poor_population_thousands": 92.01,
+        "poverty_line_rupiah": 492105.0
+      },
+      {
+        "name": "Boyolali",
+        "poverty_rate_percent": 8.71,
+        "poor_population_thousands": 86.97,
+        "poverty_line_rupiah": 464627.0
+      },
+      {
+        "name": "Brebes",
+        "poverty_rate_percent": 14.15,
+        "poor_population_thousands": 257.29,
+        "poverty_line_rupiah": 563762.0
+      },
+      {
+        "name": "Cilacap",
+        "poverty_rate_percent": 9.41,
+        "poor_population_thousands": 164.22,
+        "poverty_line_rupiah": 469174.0
+      },
+      {
+        "name": "Demak",
+        "poverty_rate_percent": 10.87,
+        "poor_population_thousands": 131.47,
+        "poverty_line_rupiah": 569035.0
+      },
+      {
+        "name": "Grobogan",
+        "poverty_rate_percent": 10.63,
+        "poor_population_thousands": 148.1,
+        "poverty_line_rupiah": 526238.0
+      },
+      {
+        "name": "Jepara",
+        "poverty_rate_percent": 5.79,
+        "poor_population_thousands": 77.67,
+        "poverty_line_rupiah": 535150.0
+      },
+      {
+        "name": "Karanganyar",
+        "poverty_rate_percent": 8.48,
+        "poor_population_thousands": 77.66,
+        "poverty_line_rupiah": 523407.0
+      },
+      {
+        "name": "Kebumen",
+        "poverty_rate_percent": 13.58,
+        "poor_population_thousands": 162.54,
+        "poverty_line_rupiah": 502841.0
+      },
+      {
+        "name": "Kendal",
+        "poverty_rate_percent": 8.4,
+        "poor_population_thousands": 83.73,
+        "poverty_line_rupiah": 521061.0
+      },
+      {
+        "name": "Klaten",
+        "poverty_rate_percent": 11.0,
+        "poor_population_thousands": 129.68,
+        "poverty_line_rupiah": 533141.0
+      },
+      {
+        "name": "Kota Magelang",
+        "poverty_rate_percent": 5.68,
+        "poor_population_thousands": 6.93,
+        "poverty_line_rupiah": 662129.0
+      },
+      {
+        "name": "Kota Pekalongan",
+        "poverty_rate_percent": 6.14,
+        "poor_population_thousands": 19.49,
+        "poverty_line_rupiah": 639402.0
+      },
+      {
+        "name": "Kota Salatiga",
+        "poverty_rate_percent": 4.2,
+        "poor_population_thousands": 8.66,
+        "poverty_line_rupiah": 630119.0
+      },
+      {
+        "name": "Kota Semarang",
+        "poverty_rate_percent": 3.8,
+        "poor_population_thousands": 74.36,
+        "poverty_line_rupiah": 709785.0
+      },
+      {
+        "name": "Kota Surakarta",
+        "poverty_rate_percent": 7.69,
+        "poor_population_thousands": 40.08,
+        "poverty_line_rupiah": 678315.0
+      },
+      {
+        "name": "Kota Tegal",
+        "poverty_rate_percent": 7.28,
+        "poor_population_thousands": 18.27,
+        "poverty_line_rupiah": 702113.0
+      },
+      {
+        "name": "Kudus",
+        "poverty_rate_percent": 6.59,
+        "poor_population_thousands": 60.37,
+        "poverty_line_rupiah": 576195.0
+      },
+      {
+        "name": "Magelang",
+        "poverty_rate_percent": 9.9,
+        "poor_population_thousands": 132.21,
+        "poverty_line_rupiah": 454591.0
+      },
+      {
+        "name": "Pati",
+        "poverty_rate_percent": 8.24,
+        "poor_population_thousands": 105.27,
+        "poverty_line_rupiah": 598600.0
+      },
+      {
+        "name": "Pekalongan",
+        "poverty_rate_percent": 8.05,
+        "poor_population_thousands": 73.8,
+        "poverty_line_rupiah": 538371.0
+      },
+      {
+        "name": "Pemalang",
+        "poverty_rate_percent": 13.32,
+        "poor_population_thousands": 173.38,
+        "poverty_line_rupiah": 530254.0
+      },
+      {
+        "name": "Purbalingga",
+        "poverty_rate_percent": 12.55,
+        "poor_population_thousands": 121.8,
+        "poverty_line_rupiah": 491091.0
+      },
+      {
+        "name": "Purworejo",
+        "poverty_rate_percent": 10.06,
+        "poor_population_thousands": 72.18,
+        "poverty_line_rupiah": 496812.0
+      },
+      {
+        "name": "Rembang",
+        "poverty_rate_percent": 13.01,
+        "poor_population_thousands": 85.32,
+        "poverty_line_rupiah": 550265.0
+      },
+      {
+        "name": "Semarang",
+        "poverty_rate_percent": 6.3,
+        "poor_population_thousands": 70.29,
+        "poverty_line_rupiah": 558501.0
+      },
+      {
+        "name": "Sragen",
+        "poverty_rate_percent": 11.22,
+        "poor_population_thousands": 100.08,
+        "poverty_line_rupiah": 482828.0
+      },
+      {
+        "name": "Sukoharjo",
+        "poverty_rate_percent": 6.83,
+        "poor_population_thousands": 62.66,
+        "poverty_line_rupiah": 536779.0
+      },
+      {
+        "name": "Tegal",
+        "poverty_rate_percent": 6.16,
+        "poor_population_thousands": 88.7,
+        "poverty_line_rupiah": 516933.0
+      },
+      {
+        "name": "Temanggung",
+        "poverty_rate_percent": 7.78,
+        "poor_population_thousands": 62.05,
+        "poverty_line_rupiah": 443089.0
+      },
+      {
+        "name": "Wonogiri",
+        "poverty_rate_percent": 9.59,
+        "poor_population_thousands": 91.9,
+        "poverty_line_rupiah": 479566.0
+      },
+      {
+        "name": "Wonosobo",
+        "poverty_rate_percent": 13.34,
+        "poor_population_thousands": 106.29,
+        "poverty_line_rupiah": 486105.0
+      }
+    ]
+  },
+  "JAWA TIMUR": {
+    "name": "JAWA TIMUR",
+    "kpi": {
+      "poverty_rate_percent": 9.5,
+      "poverty_rate_percent_s2": 9.3,
+      "poor_population_thousands": 3875.88,
+      "poor_population_thousands_s2": 3804.29,
+      "poverty_line_rupiah": 425719.0,
+      "poverty_line_rupiah_s2": 447332.0,
+      "p1_depth_index": 1.36,
+      "urban_p0": 7.0,
+      "rural_p0": 12.86,
+      "urban_num_thousands": 1641.18,
+      "rural_num_thousands": 2234.7
+    },
+    "districts": [
+      {
+        "name": "Bangkalan",
+        "poverty_rate_percent": 18.25,
+        "poor_population_thousands": 187.9,
+        "poverty_line_rupiah": 566280.0
+      },
+      {
+        "name": "Banyuwangi",
+        "poverty_rate_percent": 6.13,
+        "poor_population_thousands": 100.13,
+        "poverty_line_rupiah": 485012.0
+      },
+      {
+        "name": "Blitar",
+        "poverty_rate_percent": 7.57,
+        "poor_population_thousands": 89.04,
+        "poverty_line_rupiah": 417158.0
+      },
+      {
+        "name": "Bojonegoro",
+        "poverty_rate_percent": 11.49,
+        "poor_population_thousands": 144.9,
+        "poverty_line_rupiah": 490299.0
+      },
+      {
+        "name": "Bondowoso",
+        "poverty_rate_percent": 12.2,
+        "poor_population_thousands": 96.71,
+        "poverty_line_rupiah": 526325.0
+      },
+      {
+        "name": "Gresik",
+        "poverty_rate_percent": 9.95,
+        "poor_population_thousands": 138.55,
+        "poverty_line_rupiah": 635154.0
+      },
+      {
+        "name": "Jember",
+        "poverty_rate_percent": 8.67,
+        "poor_population_thousands": 216.76,
+        "poverty_line_rupiah": 474903.0
+      },
+      {
+        "name": "Jombang",
+        "poverty_rate_percent": 8.36,
+        "poor_population_thousands": 107.82,
+        "poverty_line_rupiah": 532053.0
+      },
+      {
+        "name": "Kediri",
+        "poverty_rate_percent": 9.81,
+        "poor_population_thousands": 157.47,
+        "poverty_line_rupiah": 419486.0
+      },
+      {
+        "name": "Kota Batu",
+        "poverty_rate_percent": 2.86,
+        "poor_population_thousands": 6.22,
+        "poverty_line_rupiah": 671273.0
+      },
+      {
+        "name": "Kota Blitar",
+        "poverty_rate_percent": 6.6,
+        "poor_population_thousands": 9.69,
+        "poverty_line_rupiah": 625337.0
+      },
+      {
+        "name": "Kota Kediri",
+        "poverty_rate_percent": 6.04,
+        "poor_population_thousands": 17.93,
+        "poverty_line_rupiah": 648506.0
+      },
+      {
+        "name": "Kota Madiun",
+        "poverty_rate_percent": 3.89,
+        "poor_population_thousands": 6.96,
+        "poverty_line_rupiah": 666073.0
+      },
+      {
+        "name": "Kota Malang",
+        "poverty_rate_percent": 3.85,
+        "poor_population_thousands": 34.41,
+        "poverty_line_rupiah": 737954.0
+      },
+      {
+        "name": "Kota Mojokerto",
+        "poverty_rate_percent": 5.05,
+        "poor_population_thousands": 6.77,
+        "poverty_line_rupiah": 630959.0
+      },
+      {
+        "name": "Kota Pasuruan",
+        "poverty_rate_percent": 6.18,
+        "poor_population_thousands": 12.83,
+        "poverty_line_rupiah": 588312.0
+      },
+      {
+        "name": "Kota Probolinggo",
+        "poverty_rate_percent": 5.69,
+        "poor_population_thousands": 14.11,
+        "poverty_line_rupiah": 683244.0
+      },
+      {
+        "name": "Kota Surabaya",
+        "poverty_rate_percent": 3.56,
+        "poor_population_thousands": 105.09,
+        "poverty_line_rupiah": 775597.0
+      },
+      {
+        "name": "Lamongan",
+        "poverty_rate_percent": 12.03,
+        "poor_population_thousands": 145.45,
+        "poverty_line_rupiah": 543475.0
+      },
+      {
+        "name": "Lumajang",
+        "poverty_rate_percent": 8.6,
+        "poor_population_thousands": 90.64,
+        "poverty_line_rupiah": 420165.0
+      },
+      {
+        "name": "Madiun",
+        "poverty_rate_percent": 10.4,
+        "poor_population_thousands": 71.59,
+        "poverty_line_rupiah": 476506.0
+      },
+      {
+        "name": "Magetan",
+        "poverty_rate_percent": 9.14,
+        "poor_population_thousands": 58.38,
+        "poverty_line_rupiah": 470409.0
+      },
+      {
+        "name": "Malang",
+        "poverty_rate_percent": 8.78,
+        "poor_population_thousands": 235.63,
+        "poverty_line_rupiah": 436153.0
+      },
+      {
+        "name": "Mojokerto",
+        "poverty_rate_percent": 8.79,
+        "poor_population_thousands": 102.67,
+        "poverty_line_rupiah": 526397.0
+      },
+      {
+        "name": "Nganjuk",
+        "poverty_rate_percent": 10.06,
+        "poor_population_thousands": 107.3,
+        "poverty_line_rupiah": 561807.0
+      },
+      {
+        "name": "Ngawi",
+        "poverty_rate_percent": 13.62,
+        "poor_population_thousands": 114.9,
+        "poverty_line_rupiah": 459551.0
+      },
+      {
+        "name": "Pacitan",
+        "poverty_rate_percent": 12.97,
+        "poor_population_thousands": 72.47,
+        "poverty_line_rupiah": 386174.0
+      },
+      {
+        "name": "Pamekasan",
+        "poverty_rate_percent": 12.77,
+        "poor_population_thousands": 118.52,
+        "poverty_line_rupiah": 482278.0
+      },
+      {
+        "name": "Pasuruan",
+        "poverty_rate_percent": 8.21,
+        "poor_population_thousands": 138.43,
+        "poverty_line_rupiah": 464861.0
+      },
+      {
+        "name": "Ponorogo",
+        "poverty_rate_percent": 8.86,
+        "poor_population_thousands": 77.93,
+        "poverty_line_rupiah": 428183.0
+      },
+      {
+        "name": "Probolinggo",
+        "poverty_rate_percent": 16.31,
+        "poor_population_thousands": 196.26,
+        "poverty_line_rupiah": 545221.0
+      },
+      {
+        "name": "Sampang",
+        "poverty_rate_percent": 20.61,
+        "poor_population_thousands": 213.98,
+        "poverty_line_rupiah": 504557.0
+      },
+      {
+        "name": "Sidoarjo",
+        "poverty_rate_percent": 4.4,
+        "poor_population_thousands": 107.57,
+        "poverty_line_rupiah": 617911.0
+      },
+      {
+        "name": "Situbondo",
+        "poverty_rate_percent": 11.17,
+        "poor_population_thousands": 78.02,
+        "poverty_line_rupiah": 428100.0
+      },
+      {
+        "name": "Sumenep",
+        "poverty_rate_percent": 17.02,
+        "poor_population_thousands": 188.48,
+        "poverty_line_rupiah": 521366.0
+      },
+      {
+        "name": "Trenggalek",
+        "poverty_rate_percent": 10.29,
+        "poor_population_thousands": 72.35,
+        "poverty_line_rupiah": 450334.0
+      },
+      {
+        "name": "Tuban",
+        "poverty_rate_percent": 14.13,
+        "poor_population_thousands": 168.86,
+        "poverty_line_rupiah": 504823.0
+      },
+      {
+        "name": "Tulungagung",
+        "poverty_rate_percent": 5.96,
+        "poor_population_thousands": 63.17,
+        "poverty_line_rupiah": 463364.0
+      }
+    ]
+  },
+  "KALIMANTAN BARAT": {
+    "name": "KALIMANTAN BARAT",
+    "kpi": {
+      "poverty_rate_percent": 6.16,
+      "poverty_rate_percent_s2": 5.97,
+      "poor_population_thousands": 330.95,
+      "poor_population_thousands_s2": 322.54,
+      "poverty_line_rupiah": 468496.0,
+      "poverty_line_rupiah_s2": 491177.0,
+      "p1_depth_index": 0.88,
+      "urban_p0": 4.48,
+      "rural_p0": 7.22,
+      "urban_num_thousands": 92.9,
+      "rural_num_thousands": 238.05
+    },
+    "districts": [
+      {
+        "name": "Bengkayang",
+        "poverty_rate_percent": 5.83,
+        "poor_population_thousands": 16.09,
+        "poverty_line_rupiah": 454765.0
+      },
+      {
+        "name": "Kapuas Hulu",
+        "poverty_rate_percent": 6.86,
+        "poor_population_thousands": 19.47,
+        "poverty_line_rupiah": 579450.0
+      },
+      {
+        "name": "Kayong Utara",
+        "poverty_rate_percent": 8.75,
+        "poor_population_thousands": 10.58,
+        "poverty_line_rupiah": 404384.0
+      },
+      {
+        "name": "Ketapang",
+        "poverty_rate_percent": 8.44,
+        "poor_population_thousands": 46.82,
+        "poverty_line_rupiah": 591623.0
+      },
+      {
+        "name": "Kota Pontianak",
+        "poverty_rate_percent": 4.0,
+        "poor_population_thousands": 27.5,
+        "poverty_line_rupiah": 729168.0
+      },
+      {
+        "name": "Kota Singkawang",
+        "poverty_rate_percent": 4.28,
+        "poor_population_thousands": 10.36,
+        "poverty_line_rupiah": 638961.0
+      },
+      {
+        "name": "Kubu Raya",
+        "poverty_rate_percent": 3.99,
+        "poor_population_thousands": 24.4,
+        "poverty_line_rupiah": 539656.0
+      },
+      {
+        "name": "Landak",
+        "poverty_rate_percent": 8.9,
+        "poor_population_thousands": 35.34,
+        "poverty_line_rupiah": 497262.0
+      },
+      {
+        "name": "Melawi",
+        "poverty_rate_percent": 10.51,
+        "poor_population_thousands": 23.36,
+        "poverty_line_rupiah": 682632.0
+      },
+      {
+        "name": "Mempawah",
+        "poverty_rate_percent": 4.49,
+        "poor_population_thousands": 12.38,
+        "poverty_line_rupiah": 494531.0
+      },
+      {
+        "name": "Sambas",
+        "poverty_rate_percent": 6.37,
+        "poor_population_thousands": 35.07,
+        "poverty_line_rupiah": 542366.0
+      },
+      {
+        "name": "Sanggau",
+        "poverty_rate_percent": 4.61,
+        "poor_population_thousands": 22.93,
+        "poverty_line_rupiah": 460246.0
+      },
+      {
+        "name": "Sekadau",
+        "poverty_rate_percent": 5.61,
+        "poor_population_thousands": 11.64,
+        "poverty_line_rupiah": 437854.0
+      },
+      {
+        "name": "Sintang",
+        "poverty_rate_percent": 7.93,
+        "poor_population_thousands": 35.02,
+        "poverty_line_rupiah": 684401.0
+      }
+    ]
+  },
+  "KALIMANTAN SELATAN": {
+    "name": "KALIMANTAN SELATAN",
+    "kpi": {
+      "poverty_rate_percent": 3.84,
+      "poverty_rate_percent_s2": 3.73,
+      "poor_population_thousands": 172.72,
+      "poor_population_thousands_s2": 168.81,
+      "poverty_line_rupiah": 467347.0,
+      "poverty_line_rupiah_s2": 491795.0,
+      "p1_depth_index": 0.55,
+      "urban_p0": 3.43,
+      "rural_p0": 4.25,
+      "urban_num_thousands": 78.47,
+      "rural_num_thousands": 94.25
+    },
+    "districts": [
+      {
+        "name": "Balangan",
+        "poverty_rate_percent": 4.64,
+        "poor_population_thousands": 6.42,
+        "poverty_line_rupiah": 544169.0
+      },
+      {
+        "name": "Banjar",
+        "poverty_rate_percent": 2.74,
+        "poor_population_thousands": 16.92,
+        "poverty_line_rupiah": 634526.0
+      },
+      {
+        "name": "Barito Kuala",
+        "poverty_rate_percent": 4.31,
+        "poor_population_thousands": 13.97,
+        "poverty_line_rupiah": 459547.0
+      },
+      {
+        "name": "Hulu Sungai Selatan",
+        "poverty_rate_percent": 3.12,
+        "poor_population_thousands": 7.55,
+        "poverty_line_rupiah": 598545.0
+      },
+      {
+        "name": "Hulu Sungai Tengah",
+        "poverty_rate_percent": 5.03,
+        "poor_population_thousands": 13.94,
+        "poverty_line_rupiah": 530279.0
+      },
+      {
+        "name": "Hulu Sungai Utara",
+        "poverty_rate_percent": 4.81,
+        "poor_population_thousands": 11.71,
+        "poverty_line_rupiah": 613161.0
+      },
+      {
+        "name": "Kota Banjar Baru",
+        "poverty_rate_percent": 3.44,
+        "poor_population_thousands": 10.27,
+        "poverty_line_rupiah": 814292.0
+      },
+      {
+        "name": "Kota Banjarmasin",
+        "poverty_rate_percent": 4.52,
+        "poor_population_thousands": 33.16,
+        "poverty_line_rupiah": 752092.0
+      },
+      {
+        "name": "Kota Baru",
+        "poverty_rate_percent": 4.39,
+        "poor_population_thousands": 15.89,
+        "poverty_line_rupiah": 603599.0
+      },
+      {
+        "name": "Tabalong",
+        "poverty_rate_percent": 4.67,
+        "poor_population_thousands": 12.5,
+        "poverty_line_rupiah": 646864.0
+      },
+      {
+        "name": "Tanah Bumbu",
+        "poverty_rate_percent": 3.13,
+        "poor_population_thousands": 13.81,
+        "poverty_line_rupiah": 660029.0
+      },
+      {
+        "name": "Tanah Laut",
+        "poverty_rate_percent": 3.0,
+        "poor_population_thousands": 10.83,
+        "poverty_line_rupiah": 679188.0
+      },
+      {
+        "name": "Tapin",
+        "poverty_rate_percent": 2.91,
+        "poor_population_thousands": 5.77,
+        "poverty_line_rupiah": 562504.0
+      }
+    ]
+  },
+  "KALIMANTAN TENGAH": {
+    "name": "KALIMANTAN TENGAH",
+    "kpi": {
+      "poverty_rate_percent": 5.19,
+      "poverty_rate_percent_s2": 4.94,
+      "poor_population_thousands": 147.8,
+      "poor_population_thousands_s2": 141.75,
+      "poverty_line_rupiah": 503626.0,
+      "poverty_line_rupiah_s2": 526003.0,
+      "p1_depth_index": 0.74,
+      "urban_p0": 5.46,
+      "rural_p0": 4.97,
+      "urban_num_thousands": 69.13,
+      "rural_num_thousands": 78.67
+    },
+    "districts": [
+      {
+        "name": "Barito Selatan",
+        "poverty_rate_percent": 4.94,
+        "poor_population_thousands": 7.09,
+        "poverty_line_rupiah": 564336.0
+      },
+      {
+        "name": "Barito Timur",
+        "poverty_rate_percent": 6.1,
+        "poor_population_thousands": 8.12,
+        "poverty_line_rupiah": 690677.0
+      },
+      {
+        "name": "Barito Utara",
+        "poverty_rate_percent": 5.52,
+        "poor_population_thousands": 7.44,
+        "poverty_line_rupiah": 654095.0
+      },
+      {
+        "name": "Gunung Mas",
+        "poverty_rate_percent": 5.48,
+        "poor_population_thousands": 6.67,
+        "poverty_line_rupiah": 585476.0
+      },
+      {
+        "name": "Kapuas",
+        "poverty_rate_percent": 5.48,
+        "poor_population_thousands": 20.43,
+        "poverty_line_rupiah": 529062.0
+      },
+      {
+        "name": "Katingan",
+        "poverty_rate_percent": 5.3,
+        "poor_population_thousands": 9.75,
+        "poverty_line_rupiah": 640905.0
+      },
+      {
+        "name": "Kota Palangka Raya",
+        "poverty_rate_percent": 3.62,
+        "poor_population_thousands": 11.16,
+        "poverty_line_rupiah": 587075.0
+      },
+      {
+        "name": "Kotawaringin Barat",
+        "poverty_rate_percent": 4.27,
+        "poor_population_thousands": 14.18,
+        "poverty_line_rupiah": 558961.0
+      },
+      {
+        "name": "Kotawaringin Timur",
+        "poverty_rate_percent": 5.83,
+        "poor_population_thousands": 27.7,
+        "poverty_line_rupiah": 596118.0
+      },
+      {
+        "name": "Lamandau",
+        "poverty_rate_percent": 3.33,
+        "poor_population_thousands": 2.89,
+        "poverty_line_rupiah": 701587.0
+      },
+      {
+        "name": "Murung Raya",
+        "poverty_rate_percent": 6.19,
+        "poor_population_thousands": 7.64,
+        "poverty_line_rupiah": 673423.0
+      },
+      {
+        "name": "Pulang Pisau",
+        "poverty_rate_percent": 4.79,
+        "poor_population_thousands": 6.23,
+        "poverty_line_rupiah": 564867.0
+      },
+      {
+        "name": "Seruyan",
+        "poverty_rate_percent": 6.72,
+        "poor_population_thousands": 15.64,
+        "poverty_line_rupiah": 668687.0
+      },
+      {
+        "name": "Sukamara",
+        "poverty_rate_percent": 4.02,
+        "poor_population_thousands": 2.87,
+        "poverty_line_rupiah": 704449.0
+      }
+    ]
+  },
+  "KALIMANTAN TIMUR": {
+    "name": "KALIMANTAN TIMUR",
+    "kpi": {
+      "poverty_rate_percent": 5.17,
+      "poverty_rate_percent_s2": 5.19,
+      "poor_population_thousands": 199.71,
+      "poor_population_thousands_s2": 202.04,
+      "poverty_line_rupiah": 611584.0,
+      "poverty_line_rupiah_s2": 629611.0,
+      "p1_depth_index": 0.74,
+      "urban_p0": 4.16,
+      "rural_p0": 7.48,
+      "urban_num_thousands": 112.08,
+      "rural_num_thousands": 87.63
+    },
+    "districts": [
+      {
+        "name": "Berau",
+        "poverty_rate_percent": 4.44,
+        "poor_population_thousands": 10.96,
+        "poverty_line_rupiah": 753416.0
+      },
+      {
+        "name": "Kota Balikpapan",
+        "poverty_rate_percent": 1.97,
+        "poor_population_thousands": 12.88,
+        "poverty_line_rupiah": 836374.0
+      },
+      {
+        "name": "Kota Bontang",
+        "poverty_rate_percent": 3.21,
+        "poor_population_thousands": 6.18,
+        "poverty_line_rupiah": 831247.0
+      },
+      {
+        "name": "Kota Samarinda",
+        "poverty_rate_percent": 3.45,
+        "poor_population_thousands": 30.45,
+        "poverty_line_rupiah": 909746.0
+      },
+      {
+        "name": "Kutai Barat",
+        "poverty_rate_percent": 8.72,
+        "poor_population_thousands": 13.24,
+        "poverty_line_rupiah": 738206.0
+      },
+      {
+        "name": "Kutai Kartanegara",
+        "poverty_rate_percent": 6.72,
+        "poor_population_thousands": 54.99,
+        "poverty_line_rupiah": 705397.0
+      },
+      {
+        "name": "Kutai Timur",
+        "poverty_rate_percent": 8.07,
+        "poor_population_thousands": 34.91,
+        "poverty_line_rupiah": 773239.0
+      },
+      {
+        "name": "Mahakam Ulu",
+        "poverty_rate_percent": 10.09,
+        "poor_population_thousands": 2.73,
+        "poverty_line_rupiah": 812492.0
+      },
+      {
+        "name": "Paser",
+        "poverty_rate_percent": 8.13,
+        "poor_population_thousands": 24.05,
+        "poverty_line_rupiah": 663239.0
+      },
+      {
+        "name": "Penajam Paser Utara",
+        "poverty_rate_percent": 5.78,
+        "poor_population_thousands": 9.34,
+        "poverty_line_rupiah": 633181.0
+      }
+    ]
+  },
+  "KALIMANTAN UTARA": {
+    "name": "KALIMANTAN UTARA",
+    "kpi": {
+      "poverty_rate_percent": 5.54,
+      "poverty_rate_percent_s2": 5.47,
+      "poor_population_thousands": 42.57,
+      "poor_population_thousands_s2": 42.45,
+      "poverty_line_rupiah": 652807.0,
+      "poverty_line_rupiah_s2": 689268.0,
+      "p1_depth_index": 0.79,
+      "urban_p0": 5.27,
+      "rural_p0": 5.98,
+      "urban_num_thousands": 25.56,
+      "rural_num_thousands": 17.01
+    },
+    "districts": [
+      {
+        "name": "Bulungan",
+        "poverty_rate_percent": 7.26,
+        "poor_population_thousands": 9.92,
+        "poverty_line_rupiah": 594190.0
+      },
+      {
+        "name": "Kota Tarakan",
+        "poverty_rate_percent": 5.03,
+        "poor_population_thousands": 14.01,
+        "poverty_line_rupiah": 889483.0
+      },
+      {
+        "name": "Malinau",
+        "poverty_rate_percent": 5.56,
+        "poor_population_thousands": 5.24,
+        "poverty_line_rupiah": 821188.0
+      },
+      {
+        "name": "Nunukan",
+        "poverty_rate_percent": 5.27,
+        "poor_population_thousands": 11.81,
+        "poverty_line_rupiah": 621290.0
+      },
+      {
+        "name": "Tana Tidung",
+        "poverty_rate_percent": 4.56,
+        "poor_population_thousands": 1.59,
+        "poverty_line_rupiah": 537590.0
+      }
+    ]
+  },
+  "KEP. BANGKA BELITUNG": {
+    "name": "KEP. BANGKA BELITUNG",
+    "kpi": {
+      "poverty_rate_percent": 5.0,
+      "poverty_rate_percent_s2": 4.77,
+      "poor_population_thousands": 77.71,
+      "poor_population_thousands_s2": 74.65,
+      "poverty_line_rupiah": 706833.0,
+      "poverty_line_rupiah_s2": 728155.0,
+      "p1_depth_index": 0.71,
+      "urban_p0": 3.89,
+      "rural_p0": 6.59,
+      "urban_num_thousands": 35.68,
+      "rural_num_thousands": 42.03
+    },
+    "districts": [
+      {
+        "name": "Bangka",
+        "poverty_rate_percent": 4.71,
+        "poor_population_thousands": 16.58,
+        "poverty_line_rupiah": 734575.0
+      },
+      {
+        "name": "Bangka Barat",
+        "poverty_rate_percent": 2.92,
+        "poor_population_thousands": 6.51,
+        "poverty_line_rupiah": 731204.0
+      },
+      {
+        "name": "Bangka Selatan",
+        "poverty_rate_percent": 4.17,
+        "poor_population_thousands": 9.13,
+        "poverty_line_rupiah": 707843.0
+      },
+      {
+        "name": "Bangka Tengah",
+        "poverty_rate_percent": 6.7,
+        "poor_population_thousands": 13.71,
+        "poverty_line_rupiah": 865464.0
+      },
+      {
+        "name": "Belitung",
+        "poverty_rate_percent": 6.44,
+        "poor_population_thousands": 12.76,
+        "poverty_line_rupiah": 937759.0
+      },
+      {
+        "name": "Belitung Timur",
+        "poverty_rate_percent": 6.69,
+        "poor_population_thousands": 9.04,
+        "poverty_line_rupiah": 925729.0
+      },
+      {
+        "name": "Kota Pangkal Pinang",
+        "poverty_rate_percent": 4.5,
+        "poor_population_thousands": 9.99,
+        "poverty_line_rupiah": 956990.0
+      }
+    ]
+  },
+  "KEP. RIAU": {
+    "name": "KEP. RIAU",
+    "kpi": {
+      "poverty_rate_percent": 4.44,
+      "poverty_rate_percent_s2": 4.26,
+      "poor_population_thousands": 117.28,
+      "poor_population_thousands_s2": 114.55,
+      "poverty_line_rupiah": 570132.0,
+      "poverty_line_rupiah_s2": 602348.0,
+      "p1_depth_index": 0.63,
+      "urban_p0": 4.13,
+      "rural_p0": 8.33,
+      "urban_num_thousands": 101.34,
+      "rural_num_thousands": 15.94
+    },
+    "districts": []
+  },
+  "LAMPUNG": {
+    "name": "LAMPUNG",
+    "kpi": {
+      "poverty_rate_percent": 10.0,
+      "poverty_rate_percent_s2": 9.66,
+      "poor_population_thousands": 887.02,
+      "poor_population_thousands_s2": 860.13,
+      "poverty_line_rupiah": 457878.0,
+      "poverty_line_rupiah_s2": 476550.0,
+      "p1_depth_index": 1.43,
+      "urban_p0": 7.49,
+      "rural_p0": 11.32,
+      "urban_num_thousands": 229.16,
+      "rural_num_thousands": 657.85
+    },
+    "districts": [
+      {
+        "name": "Kota Bandar Lampung",
+        "poverty_rate_percent": 6.95,
+        "poor_population_thousands": 80.19,
+        "poverty_line_rupiah": 810345.0
+      },
+      {
+        "name": "Kota Metro",
+        "poverty_rate_percent": 6.44,
+        "poor_population_thousands": 11.58,
+        "poverty_line_rupiah": 596139.0
+      },
+      {
+        "name": "Lampung Barat",
+        "poverty_rate_percent": 9.93,
+        "poor_population_thousands": 31.23,
+        "poverty_line_rupiah": 590143.0
+      },
+      {
+        "name": "Lampung Selatan",
+        "poverty_rate_percent": 12.05,
+        "poor_population_thousands": 127.74,
+        "poverty_line_rupiah": 554969.0
+      },
+      {
+        "name": "Lampung Tengah",
+        "poverty_rate_percent": 9.59,
+        "poor_population_thousands": 127.83,
+        "poverty_line_rupiah": 553397.0
+      },
+      {
+        "name": "Lampung Timur",
+        "poverty_rate_percent": 12.15,
+        "poor_population_thousands": 132.17,
+        "poverty_line_rupiah": 522287.0
+      },
+      {
+        "name": "Lampung Utara",
+        "poverty_rate_percent": 15.78,
+        "poor_population_thousands": 98.99,
+        "poverty_line_rupiah": 573039.0
+      },
+      {
+        "name": "Mesuji",
+        "poverty_rate_percent": 5.92,
+        "poor_population_thousands": 12.14,
+        "poverty_line_rupiah": 584306.0
+      },
+      {
+        "name": "Pesawaran",
+        "poverty_rate_percent": 10.93,
+        "poor_population_thousands": 51.09,
+        "poverty_line_rupiah": 551469.0
+      },
+      {
+        "name": "Pesisir Barat",
+        "poverty_rate_percent": 12.13,
+        "poor_population_thousands": 19.51,
+        "poverty_line_rupiah": 596941.0
+      },
+      {
+        "name": "Pringsewu",
+        "poverty_rate_percent": 7.6,
+        "poor_population_thousands": 31.66,
+        "poverty_line_rupiah": 613173.0
+      },
+      {
+        "name": "Tanggamus",
+        "poverty_rate_percent": 10.1,
+        "poor_population_thousands": 63.56,
+        "poverty_line_rupiah": 521482.0
+      },
+      {
+        "name": "Tulang Bawang Barat",
+        "poverty_rate_percent": 6.72,
+        "poor_population_thousands": 19.04,
+        "poverty_line_rupiah": 577725.0
+      },
+      {
+        "name": "Tulangbawang",
+        "poverty_rate_percent": 7.54,
+        "poor_population_thousands": 36.14,
+        "poverty_line_rupiah": 588734.0
+      },
+      {
+        "name": "Way Kanan",
+        "poverty_rate_percent": 9.36,
+        "poor_population_thousands": 44.17,
+        "poverty_line_rupiah": 501220.0
+      }
+    ]
+  },
+  "MALUKU": {
+    "name": "MALUKU",
+    "kpi": {
+      "poverty_rate_percent": 15.38,
+      "poverty_rate_percent_s2": 15.25,
+      "poor_population_thousands": 287.76,
+      "poor_population_thousands_s2": 286.86,
+      "poverty_line_rupiah": 554327.0,
+      "poverty_line_rupiah_s2": 584225.0,
+      "p1_depth_index": 2.2,
+      "urban_p0": 4.36,
+      "rural_p0": 24.61,
+      "urban_num_thousands": 37.16,
+      "rural_num_thousands": 250.6
+    },
+    "districts": [
+      {
+        "name": "Buru",
+        "poverty_rate_percent": 15.11,
+        "poor_population_thousands": 23.95,
+        "poverty_line_rupiah": 638726.0
+      },
+      {
+        "name": "Buru Selatan",
+        "poverty_rate_percent": 14.84,
+        "poor_population_thousands": 9.63,
+        "poverty_line_rupiah": 789414.0
+      },
+      {
+        "name": "Kepulauan Aru",
+        "poverty_rate_percent": 23.1,
+        "poor_population_thousands": 22.25,
+        "poverty_line_rupiah": 673363.0
+      },
+      {
+        "name": "Kota Ambon",
+        "poverty_rate_percent": 4.34,
+        "poor_population_thousands": 22.3,
+        "poverty_line_rupiah": 783697.0
+      },
+      {
+        "name": "Kota Tual",
+        "poverty_rate_percent": 19.39,
+        "poor_population_thousands": 15.94,
+        "poverty_line_rupiah": 777956.0
+      },
+      {
+        "name": "Maluku Barat Daya",
+        "poverty_rate_percent": 27.65,
+        "poor_population_thousands": 20.43,
+        "poverty_line_rupiah": 719253.0
+      },
+      {
+        "name": "Maluku Tengah",
+        "poverty_rate_percent": 16.71,
+        "poor_population_thousands": 63.05,
+        "poverty_line_rupiah": 643104.0
+      },
+      {
+        "name": "Maluku Tenggara",
+        "poverty_rate_percent": 21.16,
+        "poor_population_thousands": 21.42,
+        "poverty_line_rupiah": 728291.0
+      },
+      {
+        "name": "Maluku Tenggara Barat",
+        "poverty_rate_percent": 23.38,
+        "poor_population_thousands": 26.46,
+        "poverty_line_rupiah": 682859.0
+      },
+      {
+        "name": "Seram Bagian Barat",
+        "poverty_rate_percent": 21.85,
+        "poor_population_thousands": 38.01,
+        "poverty_line_rupiah": 554140.0
+      },
+      {
+        "name": "Seram Bagian Timur",
+        "poverty_rate_percent": 20.9,
+        "poor_population_thousands": 24.33,
+        "poverty_line_rupiah": 524878.0
+      }
+    ]
+  },
+  "MALUKU UTARA": {
+    "name": "MALUKU UTARA",
+    "kpi": {
+      "poverty_rate_percent": 5.81,
+      "poverty_rate_percent_s2": 5.59,
+      "poor_population_thousands": 77.27,
+      "poor_population_thousands_s2": 74.81,
+      "poverty_line_rupiah": 508021.0,
+      "poverty_line_rupiah_s2": 524814.0,
+      "p1_depth_index": 0.83,
+      "urban_p0": 5.95,
+      "rural_p0": 5.76,
+      "urban_num_thousands": 23.13,
+      "rural_num_thousands": 54.14
+    },
+    "districts": [
+      {
+        "name": "Halmahera Barat",
+        "poverty_rate_percent": 7.9,
+        "poor_population_thousands": 9.69,
+        "poverty_line_rupiah": 525327.0
+      },
+      {
+        "name": "Halmahera Selatan",
+        "poverty_rate_percent": 4.81,
+        "poor_population_thousands": 11.78,
+        "poverty_line_rupiah": 512217.0
+      },
+      {
+        "name": "Halmahera Tengah",
+        "poverty_rate_percent": 9.16,
+        "poor_population_thousands": 5.61,
+        "poverty_line_rupiah": 647982.0
+      },
+      {
+        "name": "Halmahera Timur",
+        "poverty_rate_percent": 10.54,
+        "poor_population_thousands": 11.05,
+        "poverty_line_rupiah": 705734.0
+      },
+      {
+        "name": "Halmahera Utara",
+        "poverty_rate_percent": 4.35,
+        "poor_population_thousands": 8.84,
+        "poverty_line_rupiah": 490223.0
+      },
+      {
+        "name": "Kepulauan Sula",
+        "poverty_rate_percent": 7.65,
+        "poor_population_thousands": 8.05,
+        "poverty_line_rupiah": 529754.0
+      },
+      {
+        "name": "Kota Ternate",
+        "poverty_rate_percent": 3.34,
+        "poor_population_thousands": 8.51,
+        "poverty_line_rupiah": 753052.0
+      },
+      {
+        "name": "Kota Tidore Kepulauan",
+        "poverty_rate_percent": 6.54,
+        "poor_population_thousands": 6.73,
+        "poverty_line_rupiah": 643293.0
+      },
+      {
+        "name": "Pulau Morotai",
+        "poverty_rate_percent": 4.49,
+        "poor_population_thousands": 3.29,
+        "poverty_line_rupiah": 494261.0
+      },
+      {
+        "name": "Pulau Taliabu",
+        "poverty_rate_percent": 6.63,
+        "poor_population_thousands": 3.72,
+        "poverty_line_rupiah": 574242.0
+      }
+    ]
+  },
+  "NUSA TENGGARA BARAT": {
+    "name": "NUSA TENGGARA BARAT",
+    "kpi": {
+      "poverty_rate_percent": 11.78,
+      "poverty_rate_percent_s2": 11.38,
+      "poor_population_thousands": 654.57,
+      "poor_population_thousands_s2": 637.18,
+      "poverty_line_rupiah": 422427.0,
+      "poverty_line_rupiah_s2": 436593.0,
+      "p1_depth_index": 1.68,
+      "urban_p0": 12.02,
+      "rural_p0": 11.51,
+      "urban_num_thousands": 353.68,
+      "rural_num_thousands": 300.89
+    },
+    "districts": [
+      {
+        "name": "Bima",
+        "poverty_rate_percent": 12.59,
+        "poor_population_thousands": 66.81,
+        "poverty_line_rupiah": 465479.0
+      },
+      {
+        "name": "Dompu",
+        "poverty_rate_percent": 11.15,
+        "poor_population_thousands": 31.27,
+        "poverty_line_rupiah": 484327.0
+      },
+      {
+        "name": "Kota Bima",
+        "poverty_rate_percent": 7.33,
+        "poor_population_thousands": 14.54,
+        "poverty_line_rupiah": 520143.0
+      },
+      {
+        "name": "Kota Mataram",
+        "poverty_rate_percent": 7.15,
+        "poor_population_thousands": 39.82,
+        "poverty_line_rupiah": 689992.0
+      },
+      {
+        "name": "Lombok Barat",
+        "poverty_rate_percent": 11.9,
+        "poor_population_thousands": 92.12,
+        "poverty_line_rupiah": 594141.0
+      },
+      {
+        "name": "Lombok Tengah",
+        "poverty_rate_percent": 10.68,
+        "poor_population_thousands": 109.25,
+        "poverty_line_rupiah": 568910.0
+      },
+      {
+        "name": "Lombok Timur",
+        "poverty_rate_percent": 13.53,
+        "poor_population_thousands": 173.79,
+        "poverty_line_rupiah": 602564.0
+      },
+      {
+        "name": "Lombok Utara",
+        "poverty_rate_percent": 20.74,
+        "poor_population_thousands": 49.28,
+        "poverty_line_rupiah": 611125.0
+      },
+      {
+        "name": "Sumbawa",
+        "poverty_rate_percent": 11.79,
+        "poor_population_thousands": 58.23,
+        "poverty_line_rupiah": 492991.0
+      },
+      {
+        "name": "Sumbawa Barat",
+        "poverty_rate_percent": 10.98,
+        "poor_population_thousands": 19.46,
+        "poverty_line_rupiah": 629139.0
+      }
+    ]
+  },
+  "NUSA TENGGARA TIMUR": {
+    "name": "NUSA TENGGARA TIMUR",
+    "kpi": {
+      "poverty_rate_percent": 18.6,
+      "poverty_rate_percent_s2": 17.5,
+      "poor_population_thousands": 1088.78,
+      "poor_population_thousands_s2": 1031.69,
+      "poverty_line_rupiah": 416301.0,
+      "poverty_line_rupiah_s2": 425350.0,
+      "p1_depth_index": 2.66,
+      "urban_p0": 7.68,
+      "rural_p0": 22.66,
+      "urban_num_thousands": 121.85,
+      "rural_num_thousands": 966.93
+    },
+    "districts": [
+      {
+        "name": "Alor",
+        "poverty_rate_percent": 18.29,
+        "poor_population_thousands": 38.68,
+        "poverty_line_rupiah": 464871.0
+      },
+      {
+        "name": "Belu",
+        "poverty_rate_percent": 12.79,
+        "poor_population_thousands": 30.4,
+        "poverty_line_rupiah": 490904.0
+      },
+      {
+        "name": "Ende",
+        "poverty_rate_percent": 21.31,
+        "poor_population_thousands": 58.92,
+        "poverty_line_rupiah": 549363.0
+      },
+      {
+        "name": "Flores Timur",
+        "poverty_rate_percent": 10.88,
+        "poor_population_thousands": 28.92,
+        "poverty_line_rupiah": 429094.0
+      },
+      {
+        "name": "Kota Kupang",
+        "poverty_rate_percent": 7.57,
+        "poor_population_thousands": 37.91,
+        "poverty_line_rupiah": 794609.0
+      },
+      {
+        "name": "Kupang",
+        "poverty_rate_percent": 20.32,
+        "poor_population_thousands": 87.5,
+        "poverty_line_rupiah": 504863.0
+      },
+      {
+        "name": "Lembata",
+        "poverty_rate_percent": 23.27,
+        "poor_population_thousands": 36.78,
+        "poverty_line_rupiah": 538773.0
+      },
+      {
+        "name": "Malaka",
+        "poverty_rate_percent": 13.52,
+        "poor_population_thousands": 28.05,
+        "poverty_line_rupiah": 494018.0
+      },
+      {
+        "name": "Manggarai",
+        "poverty_rate_percent": 18.1,
+        "poor_population_thousands": 65.81,
+        "poverty_line_rupiah": 472888.0
+      },
+      {
+        "name": "Manggarai Barat",
+        "poverty_rate_percent": 16.09,
+        "poor_population_thousands": 49.55,
+        "poverty_line_rupiah": 477226.0
+      },
+      {
+        "name": "Manggarai Timur",
+        "poverty_rate_percent": 23.51,
+        "poor_population_thousands": 70.99,
+        "poverty_line_rupiah": 485247.0
+      },
+      {
+        "name": "Nagekeo",
+        "poverty_rate_percent": 12.18,
+        "poor_population_thousands": 18.63,
+        "poverty_line_rupiah": 516140.0
+      },
+      {
+        "name": "Ngada",
+        "poverty_rate_percent": 11.22,
+        "poor_population_thousands": 19.53,
+        "poverty_line_rupiah": 510269.0
+      },
+      {
+        "name": "Rote Ndao",
+        "poverty_rate_percent": 24.37,
+        "poor_population_thousands": 51.64,
+        "poverty_line_rupiah": 443901.0
+      },
+      {
+        "name": "Sabu Raijua",
+        "poverty_rate_percent": 27.18,
+        "poor_population_thousands": 30.65,
+        "poverty_line_rupiah": 571961.0
+      },
+      {
+        "name": "Sikka",
+        "poverty_rate_percent": 11.25,
+        "poor_population_thousands": 36.74,
+        "poverty_line_rupiah": 447472.0
+      },
+      {
+        "name": "Sumba Barat",
+        "poverty_rate_percent": 26.47,
+        "poor_population_thousands": 37.08,
+        "poverty_line_rupiah": 460702.0
+      },
+      {
+        "name": "Sumba Barat Daya",
+        "poverty_rate_percent": 25.66,
+        "poor_population_thousands": 97.68,
+        "poverty_line_rupiah": 513816.0
+      },
+      {
+        "name": "Sumba Tengah",
+        "poverty_rate_percent": 29.23,
+        "poor_population_thousands": 22.81,
+        "poverty_line_rupiah": 397817.0
+      },
+      {
+        "name": "Sumba Timur",
+        "poverty_rate_percent": 25.64,
+        "poor_population_thousands": 70.35,
+        "poverty_line_rupiah": 481754.0
+      },
+      {
+        "name": "Timor Tengah Selatan",
+        "poverty_rate_percent": 24.5,
+        "poor_population_thousands": 116.74,
+        "poverty_line_rupiah": 454423.0
+      },
+      {
+        "name": "Timor Tengah Utara",
+        "poverty_rate_percent": 20.17,
+        "poor_population_thousands": 53.44,
+        "poverty_line_rupiah": 516059.0
+      }
+    ]
+  },
+  "PAPUA": {
+    "name": "PAPUA",
+    "kpi": {
+      "poverty_rate_percent": 19.16,
+      "poverty_rate_percent_s2": 17.82,
+      "poor_population_thousands": 171.38,
+      "poor_population_thousands_s2": 160.25,
+      "poverty_line_rupiah": 488906.0,
+      "poverty_line_rupiah_s2": 502801.0,
+      "p1_depth_index": 2.74,
+      "urban_p0": 6.58,
+      "rural_p0": 38.47,
+      "urban_num_thousands": 35.63,
+      "rural_num_thousands": 135.75
+    },
+    "districts": [
+      {
+        "name": "Biak Numfor",
+        "poverty_rate_percent": 25.73,
+        "poor_population_thousands": 39.74,
+        "poverty_line_rupiah": 712459.0
+      },
+      {
+        "name": "Jayapura",
+        "poverty_rate_percent": 13.03,
+        "poor_population_thousands": 17.18,
+        "poverty_line_rupiah": 766257.0
+      },
+      {
+        "name": "Keerom",
+        "poverty_rate_percent": 17.76,
+        "poor_population_thousands": 10.79,
+        "poverty_line_rupiah": 875121.0
+      },
+      {
+        "name": "Kepulauan Yapen",
+        "poverty_rate_percent": 28.0,
+        "poor_population_thousands": 28.7,
+        "poverty_line_rupiah": 821782.0
+      },
+      {
+        "name": "Kota Jayapura",
+        "poverty_rate_percent": 12.03,
+        "poor_population_thousands": 38.33,
+        "poverty_line_rupiah": 1253343.0
+      },
+      {
+        "name": "Mamberamo Raya",
+        "poverty_rate_percent": 35.09,
+        "poor_population_thousands": 9.32,
+        "poverty_line_rupiah": 905387.0
+      },
+      {
+        "name": "Sarmi",
+        "poverty_rate_percent": 15.17,
+        "poor_population_thousands": 6.41,
+        "poverty_line_rupiah": 686762.0
+      },
+      {
+        "name": "Supiori",
+        "poverty_rate_percent": 42.56,
+        "poor_population_thousands": 9.47,
+        "poverty_line_rupiah": 618030.0
+      },
+      {
+        "name": "Waropen",
+        "poverty_rate_percent": 32.6,
+        "poor_population_thousands": 11.45,
+        "poverty_line_rupiah": 878213.0
+      }
+    ]
+  },
+  "PAPUA BARAT": {
+    "name": "PAPUA BARAT",
+    "kpi": {
+      "poverty_rate_percent": 20.66,
+      "poverty_rate_percent_s2": 19.58,
+      "poor_population_thousands": 106.9,
+      "poor_population_thousands_s2": 102.4,
+      "poverty_line_rupiah": 619054.0,
+      "poverty_line_rupiah_s2": 644673.0,
+      "p1_depth_index": 2.95,
+      "urban_p0": 9.22,
+      "rural_p0": 25.88,
+      "urban_num_thousands": 14.94,
+      "rural_num_thousands": 91.95
+    },
+    "districts": [
+      {
+        "name": "Fakfak",
+        "poverty_rate_percent": 19.86,
+        "poor_population_thousands": 17.04,
+        "poverty_line_rupiah": 754624.0
+      },
+      {
+        "name": "Kaimana",
+        "poverty_rate_percent": 13.83,
+        "poor_population_thousands": 9.9,
+        "poverty_line_rupiah": 710589.0
+      },
+      {
+        "name": "Manokwari",
+        "poverty_rate_percent": 17.38,
+        "poor_population_thousands": 31.72,
+        "poverty_line_rupiah": 849546.0
+      },
+      {
+        "name": "Manokwari Selatan",
+        "poverty_rate_percent": 26.52,
+        "poor_population_thousands": 7.75,
+        "poverty_line_rupiah": 771161.0
+      },
+      {
+        "name": "Pegunungan Arfak",
+        "poverty_rate_percent": 30.88,
+        "poor_population_thousands": 11.86,
+        "poverty_line_rupiah": 785149.0
+      },
+      {
+        "name": "Teluk Bintuni",
+        "poverty_rate_percent": 25.34,
+        "poor_population_thousands": 18.48,
+        "poverty_line_rupiah": 810638.0
+      },
+      {
+        "name": "Teluk Wondama",
+        "poverty_rate_percent": 27.57,
+        "poor_population_thousands": 10.16,
+        "poverty_line_rupiah": 766187.0
+      }
+    ]
+  },
+  "PAPUA BARAT DAYA": {
+    "name": "PAPUA BARAT DAYA",
+    "kpi": {
+      "poverty_rate_percent": 17.95,
+      "poverty_rate_percent_s2": 17.5,
+      "poor_population_thousands": 103.57,
+      "poor_population_thousands_s2": 102.41,
+      "poverty_line_rupiah": 595233.0,
+      "poverty_line_rupiah_s2": 629595.0,
+      "p1_depth_index": 2.56,
+      "urban_p0": 8.98,
+      "rural_p0": 29.71,
+      "urban_num_thousands": 29.4,
+      "rural_num_thousands": 74.17
+    },
+    "districts": [
+      {
+        "name": "Kota Sorong",
+        "poverty_rate_percent": 13.55,
+        "poor_population_thousands": 41.39,
+        "poverty_line_rupiah": 985416.0
+      },
+      {
+        "name": "Maybrat",
+        "poverty_rate_percent": 29.0,
+        "poor_population_thousands": 13.53,
+        "poverty_line_rupiah": 591993.0
+      },
+      {
+        "name": "Raja Ampat",
+        "poverty_rate_percent": 16.57,
+        "poor_population_thousands": 8.6,
+        "poverty_line_rupiah": 658931.0
+      },
+      {
+        "name": "Sorong",
+        "poverty_rate_percent": 25.1,
+        "poor_population_thousands": 25.61,
+        "poverty_line_rupiah": 661253.0
+      },
+      {
+        "name": "Sorong Selatan",
+        "poverty_rate_percent": 17.66,
+        "poor_population_thousands": 9.49,
+        "poverty_line_rupiah": 606474.0
+      },
+      {
+        "name": "Tambrauw",
+        "poverty_rate_percent": 28.94,
+        "poor_population_thousands": 4.96,
+        "poverty_line_rupiah": 606660.0
+      }
+    ]
+  },
+  "PAPUA PEGUNUNGAN": {
+    "name": "PAPUA PEGUNUNGAN",
+    "kpi": {
+      "poverty_rate_percent": 30.03,
+      "poverty_rate_percent_s2": 27.21,
+      "poor_population_thousands": 337.32,
+      "poor_population_thousands_s2": 308.19,
+      "poverty_line_rupiah": 862027.0,
+      "poverty_line_rupiah_s2": 942805.0,
+      "p1_depth_index": 4.29,
+      "urban_p0": 13.0,
+      "rural_p0": 31.36,
+      "urban_num_thousands": 10.51,
+      "rural_num_thousands": 326.81
+    },
+    "districts": [
+      {
+        "name": "Jayawijaya",
+        "poverty_rate_percent": 29.08,
+        "poor_population_thousands": 61.64,
+        "poverty_line_rupiah": 913719.0
+      },
+      {
+        "name": "Lanny Jaya",
+        "poverty_rate_percent": 31.59,
+        "poor_population_thousands": 68.04,
+        "poverty_line_rupiah": 1019014.0
+      },
+      {
+        "name": "Mamberamo Tengah",
+        "poverty_rate_percent": 32.2,
+        "poor_population_thousands": 18.81,
+        "poverty_line_rupiah": 901904.0
+      },
+      {
+        "name": "Nduga",
+        "poverty_rate_percent": 32.89,
+        "poor_population_thousands": 40.29,
+        "poverty_line_rupiah": 837239.0
+      },
+      {
+        "name": "Pegunungan Bintang",
+        "poverty_rate_percent": 25.87,
+        "poor_population_thousands": 20.61,
+        "poverty_line_rupiah": 1132178.0
+      },
+      {
+        "name": "Tolikara",
+        "poverty_rate_percent": 28.75,
+        "poor_population_thousands": 45.62,
+        "poverty_line_rupiah": 861729.0
+      },
+      {
+        "name": "Yahukimo",
+        "poverty_rate_percent": 30.61,
+        "poor_population_thousands": 62.42,
+        "poverty_line_rupiah": 908562.0
+      },
+      {
+        "name": "Yalimo",
+        "poverty_rate_percent": 27.35,
+        "poor_population_thousands": 19.9,
+        "poverty_line_rupiah": 775882.0
+      }
+    ]
+  },
+  "PAPUA SELATAN": {
+    "name": "PAPUA SELATAN",
+    "kpi": {
+      "poverty_rate_percent": 19.71,
+      "poverty_rate_percent_s2": 19.26,
+      "poor_population_thousands": 105.53,
+      "poor_population_thousands_s2": 103.92,
+      "poverty_line_rupiah": 432733.0,
+      "poverty_line_rupiah_s2": 450134.0,
+      "p1_depth_index": 2.82,
+      "urban_p0": 4.12,
+      "rural_p0": 28.86,
+      "urban_num_thousands": 8.16,
+      "rural_num_thousands": 97.37
+    },
+    "districts": [
+      {
+        "name": "Asmat",
+        "poverty_rate_percent": 28.47,
+        "poor_population_thousands": 31.06,
+        "poverty_line_rupiah": 520641.0
+      },
+      {
+        "name": "Boven Digoel",
+        "poverty_rate_percent": 21.96,
+        "poor_population_thousands": 16.26,
+        "poverty_line_rupiah": 665009.0
+      },
+      {
+        "name": "Mappi",
+        "poverty_rate_percent": 28.46,
+        "poor_population_thousands": 30.5,
+        "poverty_line_rupiah": 513706.0
+      },
+      {
+        "name": "Merauke",
+        "poverty_rate_percent": 11.31,
+        "poor_population_thousands": 27.72,
+        "poverty_line_rupiah": 517764.0
+      }
+    ]
+  },
+  "PAPUA TENGAH": {
+    "name": "PAPUA TENGAH",
+    "kpi": {
+      "poverty_rate_percent": 28.9,
+      "poverty_rate_percent_s2": 29.45,
+      "poor_population_thousands": 302.31,
+      "poor_population_thousands_s2": 309.86,
+      "poverty_line_rupiah": 625920.0,
+      "poverty_line_rupiah_s2": 662158.0,
+      "p1_depth_index": 4.13,
+      "urban_p0": 5.51,
+      "rural_p0": 36.54,
+      "urban_num_thousands": 14.19,
+      "rural_num_thousands": 288.11
+    },
+    "districts": [
+      {
+        "name": "Deiyai",
+        "poverty_rate_percent": 37.29,
+        "poor_population_thousands": 29.84,
+        "poverty_line_rupiah": 817167.0
+      },
+      {
+        "name": "Dogiyai",
+        "poverty_rate_percent": 29.34,
+        "poor_population_thousands": 29.96,
+        "poverty_line_rupiah": 752603.0
+      },
+      {
+        "name": "Intan Jaya",
+        "poverty_rate_percent": 39.21,
+        "poor_population_thousands": 21.37,
+        "poverty_line_rupiah": 980000.0
+      },
+      {
+        "name": "Mimika",
+        "poverty_rate_percent": 13.7,
+        "poor_population_thousands": 31.31,
+        "poverty_line_rupiah": 1166466.0
+      },
+      {
+        "name": "Nabire",
+        "poverty_rate_percent": 22.65,
+        "poor_population_thousands": 34.18,
+        "poverty_line_rupiah": 884601.0
+      },
+      {
+        "name": "Paniai",
+        "poverty_rate_percent": 36.31,
+        "poor_population_thousands": 63.26,
+        "poverty_line_rupiah": 754356.0
+      },
+      {
+        "name": "Puncak",
+        "poverty_rate_percent": 36.94,
+        "poor_population_thousands": 43.55,
+        "poverty_line_rupiah": 943351.0
+      },
+      {
+        "name": "Puncak Jaya",
+        "poverty_rate_percent": 35.46,
+        "poor_population_thousands": 48.85,
+        "poverty_line_rupiah": 933545.0
+      }
+    ]
+  },
+  "RIAU": {
+    "name": "RIAU",
+    "kpi": {
+      "poverty_rate_percent": 6.16,
+      "poverty_rate_percent_s2": 6.3,
+      "poor_population_thousands": 460.96,
+      "poor_population_thousands_s2": 475.57,
+      "poverty_line_rupiah": 525806.0,
+      "poverty_line_rupiah_s2": 549211.0,
+      "p1_depth_index": 0.88,
+      "urban_p0": 5.75,
+      "rural_p0": 6.43,
+      "urban_num_thousands": 173.52,
+      "rural_num_thousands": 287.45
+    },
+    "districts": [
+      {
+        "name": "Bengkalis",
+        "poverty_rate_percent": 6.08,
+        "poor_population_thousands": 35.11,
+        "poverty_line_rupiah": 764542.0
+      },
+      {
+        "name": "Indragiri Hilir",
+        "poverty_rate_percent": 4.95,
+        "poor_population_thousands": 35.97,
+        "poverty_line_rupiah": 642777.0
+      },
+      {
+        "name": "Indragiri Hulu",
+        "poverty_rate_percent": 5.83,
+        "poor_population_thousands": 26.88,
+        "poverty_line_rupiah": 673975.0
+      },
+      {
+        "name": "Kampar",
+        "poverty_rate_percent": 6.29,
+        "poor_population_thousands": 58.71,
+        "poverty_line_rupiah": 600385.0
+      },
+      {
+        "name": "Kepulauan Meranti",
+        "poverty_rate_percent": 20.51,
+        "poor_population_thousands": 39.41,
+        "poverty_line_rupiah": 673296.0
+      },
+      {
+        "name": "Kota Dumai",
+        "poverty_rate_percent": 3.08,
+        "poor_population_thousands": 9.92,
+        "poverty_line_rupiah": 654144.0
+      },
+      {
+        "name": "Kota Pekanbaru",
+        "poverty_rate_percent": 3.19,
+        "poor_population_thousands": 39.16,
+        "poverty_line_rupiah": 767408.0
+      },
+      {
+        "name": "Kuantan Singingi",
+        "poverty_rate_percent": 6.99,
+        "poor_population_thousands": 22.68,
+        "poverty_line_rupiah": 751174.0
+      },
+      {
+        "name": "Pelalawan",
+        "poverty_rate_percent": 7.24,
+        "poor_population_thousands": 43.49,
+        "poverty_line_rupiah": 741594.0
+      },
+      {
+        "name": "Rokan Hilir",
+        "poverty_rate_percent": 7.16,
+        "poor_population_thousands": 55.49,
+        "poverty_line_rupiah": 559703.0
+      },
+      {
+        "name": "Rokan Hulu",
+        "poverty_rate_percent": 8.71,
+        "poor_population_thousands": 70.65,
+        "poverty_line_rupiah": 712867.0
+      },
+      {
+        "name": "Siak",
+        "poverty_rate_percent": 4.4,
+        "poor_population_thousands": 23.5,
+        "poverty_line_rupiah": 607601.0
+      }
+    ]
+  },
+  "SULAWESI BARAT": {
+    "name": "SULAWESI BARAT",
+    "kpi": {
+      "poverty_rate_percent": 10.41,
+      "poverty_rate_percent_s2": 10.18,
+      "poor_population_thousands": 152.31,
+      "poor_population_thousands_s2": 149.88,
+      "poverty_line_rupiah": 371048.0,
+      "poverty_line_rupiah_s2": 399892.0,
+      "p1_depth_index": 1.49,
+      "urban_p0": 8.35,
+      "rural_p0": 10.94,
+      "urban_num_thousands": 24.71,
+      "rural_num_thousands": 127.6
+    },
+    "districts": [
+      {
+        "name": "Majene",
+        "poverty_rate_percent": 12.98,
+        "poor_population_thousands": 23.4,
+        "poverty_line_rupiah": 511028.0
+      },
+      {
+        "name": "Mamasa",
+        "poverty_rate_percent": 13.66,
+        "poor_population_thousands": 22.87,
+        "poverty_line_rupiah": 367511.0
+      },
+      {
+        "name": "Mamuju",
+        "poverty_rate_percent": 6.99,
+        "poor_population_thousands": 22.48,
+        "poverty_line_rupiah": 378196.0
+      },
+      {
+        "name": "Mamuju Tengah",
+        "poverty_rate_percent": 7.22,
+        "poor_population_thousands": 10.62,
+        "poverty_line_rupiah": 344125.0
+      },
+      {
+        "name": "Mamuju Utara",
+        "poverty_rate_percent": 4.96,
+        "poor_population_thousands": 9.65,
+        "poverty_line_rupiah": 477892.0
+      },
+      {
+        "name": "Polewali Mandar",
+        "poverty_rate_percent": 14.02,
+        "poor_population_thousands": 63.29,
+        "poverty_line_rupiah": 525705.0
+      }
+    ]
+  },
+  "SULAWESI SELATAN": {
+    "name": "SULAWESI SELATAN",
+    "kpi": {
+      "poverty_rate_percent": 7.6,
+      "poverty_rate_percent_s2": 7.43,
+      "poor_population_thousands": 698.13,
+      "poor_population_thousands_s2": 685.14,
+      "poverty_line_rupiah": 357943.0,
+      "poverty_line_rupiah_s2": 387454.0,
+      "p1_depth_index": 1.09,
+      "urban_p0": 5.14,
+      "rural_p0": 9.88,
+      "urban_num_thousands": 227.84,
+      "rural_num_thousands": 470.29
+    },
+    "districts": [
+      {
+        "name": "Bantaeng",
+        "poverty_rate_percent": 7.68,
+        "poor_population_thousands": 14.74,
+        "poverty_line_rupiah": 453167.0
+      },
+      {
+        "name": "Barru",
+        "poverty_rate_percent": 8.0,
+        "poor_population_thousands": 14.13,
+        "poverty_line_rupiah": 426792.0
+      },
+      {
+        "name": "Bone",
+        "poverty_rate_percent": 9.13,
+        "poor_population_thousands": 69.73,
+        "poverty_line_rupiah": 452560.0
+      },
+      {
+        "name": "Bulukumba",
+        "poverty_rate_percent": 6.06,
+        "poor_population_thousands": 25.88,
+        "poverty_line_rupiah": 444994.0
+      },
+      {
+        "name": "Enrekang",
+        "poverty_rate_percent": 10.73,
+        "poor_population_thousands": 23.09,
+        "poverty_line_rupiah": 451580.0
+      },
+      {
+        "name": "Gowa",
+        "poverty_rate_percent": 6.64,
+        "poor_population_thousands": 54.04,
+        "poverty_line_rupiah": 496555.0
+      },
+      {
+        "name": "Jeneponto",
+        "poverty_rate_percent": 11.42,
+        "poor_population_thousands": 42.56,
+        "poverty_line_rupiah": 435704.0
+      },
+      {
+        "name": "Kepulauan Selayar",
+        "poverty_rate_percent": 10.61,
+        "poor_population_thousands": 14.77,
+        "poverty_line_rupiah": 477794.0
+      },
+      {
+        "name": "Kota Makassar",
+        "poverty_rate_percent": 4.43,
+        "poor_population_thousands": 71.63,
+        "poverty_line_rupiah": 610536.0
+      },
+      {
+        "name": "Kota Palopo",
+        "poverty_rate_percent": 7.18,
+        "poor_population_thousands": 14.31,
+        "poverty_line_rupiah": 481362.0
+      },
+      {
+        "name": "Kota Parepare",
+        "poverty_rate_percent": 4.44,
+        "poor_population_thousands": 6.73,
+        "poverty_line_rupiah": 483487.0
+      },
+      {
+        "name": "Luwu",
+        "poverty_rate_percent": 10.97,
+        "poor_population_thousands": 41.76,
+        "poverty_line_rupiah": 447602.0
+      },
+      {
+        "name": "Luwu Timur",
+        "poverty_rate_percent": 5.79,
+        "poor_population_thousands": 18.55,
+        "poverty_line_rupiah": 469563.0
+      },
+      {
+        "name": "Luwu Utara",
+        "poverty_rate_percent": 10.74,
+        "poor_population_thousands": 35.03,
+        "poverty_line_rupiah": 441412.0
+      },
+      {
+        "name": "Maros",
+        "poverty_rate_percent": 8.9,
+        "poor_population_thousands": 32.67,
+        "poverty_line_rupiah": 560172.0
+      },
+      {
+        "name": "Pangkajene Dan Kepulauan",
+        "poverty_rate_percent": 11.6,
+        "poor_population_thousands": 40.37,
+        "poverty_line_rupiah": 471043.0
+      },
+      {
+        "name": "Pinrang",
+        "poverty_rate_percent": 8.38,
+        "poor_population_thousands": 32.52,
+        "poverty_line_rupiah": 426624.0
+      },
+      {
+        "name": "Sidenreng Rappang",
+        "poverty_rate_percent": 4.91,
+        "poor_population_thousands": 15.2,
+        "poverty_line_rupiah": 472303.0
+      },
+      {
+        "name": "Sinjai",
+        "poverty_rate_percent": 7.41,
+        "poor_population_thousands": 18.44,
+        "poverty_line_rupiah": 426191.0
+      },
+      {
+        "name": "Soppeng",
+        "poverty_rate_percent": 6.65,
+        "poor_population_thousands": 15.34,
+        "poverty_line_rupiah": 441117.0
+      },
+      {
+        "name": "Takalar",
+        "poverty_rate_percent": 7.27,
+        "poor_population_thousands": 22.17,
+        "poverty_line_rupiah": 475861.0
+      },
+      {
+        "name": "Tana Toraja",
+        "poverty_rate_percent": 10.54,
+        "poor_population_thousands": 25.82,
+        "poverty_line_rupiah": 435955.0
+      },
+      {
+        "name": "Toraja Utara",
+        "poverty_rate_percent": 10.05,
+        "poor_population_thousands": 24.48,
+        "poverty_line_rupiah": 435309.0
+      },
+      {
+        "name": "Wajo",
+        "poverty_rate_percent": 5.86,
+        "poor_population_thousands": 24.15,
+        "poverty_line_rupiah": 450789.0
+      }
+    ]
+  },
+  "SULAWESI TENGAH": {
+    "name": "SULAWESI TENGAH",
+    "kpi": {
+      "poverty_rate_percent": 10.92,
+      "poverty_rate_percent_s2": 10.52,
+      "poor_population_thousands": 356.19,
+      "poor_population_thousands_s2": 345.38,
+      "poverty_line_rupiah": 468788.0,
+      "poverty_line_rupiah_s2": 498444.0,
+      "p1_depth_index": 1.56,
+      "urban_p0": 6.98,
+      "rural_p0": 12.93,
+      "urban_num_thousands": 76.92,
+      "rural_num_thousands": 279.27
+    },
+    "districts": [
+      {
+        "name": "Banggai",
+        "poverty_rate_percent": 6.23,
+        "poor_population_thousands": 25.17,
+        "poverty_line_rupiah": 535425.0
+      },
+      {
+        "name": "Banggai Kepulauan",
+        "poverty_rate_percent": 11.49,
+        "poor_population_thousands": 13.92,
+        "poverty_line_rupiah": 471281.0
+      },
+      {
+        "name": "Banggai Laut",
+        "poverty_rate_percent": 12.71,
+        "poor_population_thousands": 10.44,
+        "poverty_line_rupiah": 453715.0
+      },
+      {
+        "name": "Buol",
+        "poverty_rate_percent": 12.48,
+        "poor_population_thousands": 22.35,
+        "poverty_line_rupiah": 496424.0
+      },
+      {
+        "name": "Donggala",
+        "poverty_rate_percent": 14.66,
+        "poor_population_thousands": 45.92,
+        "poverty_line_rupiah": 450811.0
+      },
+      {
+        "name": "Kota Palu",
+        "poverty_rate_percent": 5.26,
+        "poor_population_thousands": 21.99,
+        "poverty_line_rupiah": 685888.0
+      },
+      {
+        "name": "Morowali",
+        "poverty_rate_percent": 10.38,
+        "poor_population_thousands": 13.65,
+        "poverty_line_rupiah": 603022.0
+      },
+      {
+        "name": "Morowali Utara",
+        "poverty_rate_percent": 10.38,
+        "poor_population_thousands": 14.78,
+        "poverty_line_rupiah": 609792.0
+      },
+      {
+        "name": "Parigi Moutong",
+        "poverty_rate_percent": 13.51,
+        "poor_population_thousands": 71.88,
+        "poverty_line_rupiah": 575644.0
+      },
+      {
+        "name": "Poso",
+        "poverty_rate_percent": 12.9,
+        "poor_population_thousands": 36.49,
+        "poverty_line_rupiah": 632147.0
+      },
+      {
+        "name": "Sigi",
+        "poverty_rate_percent": 10.47,
+        "poor_population_thousands": 26.03,
+        "poverty_line_rupiah": 474669.0
+      },
+      {
+        "name": "Tojo Una-Una",
+        "poverty_rate_percent": 14.67,
+        "poor_population_thousands": 23.59,
+        "poverty_line_rupiah": 636439.0
+      },
+      {
+        "name": "Toli-Toli",
+        "poverty_rate_percent": 12.2,
+        "poor_population_thousands": 29.98,
+        "poverty_line_rupiah": 461159.0
+      }
+    ]
+  },
+  "SULAWESI TENGGARA": {
+    "name": "SULAWESI TENGGARA",
+    "kpi": {
+      "poverty_rate_percent": 10.54,
+      "poverty_rate_percent_s2": 10.14,
+      "poor_population_thousands": 304.43,
+      "poor_population_thousands_s2": 295.31,
+      "poverty_line_rupiah": 364299.0,
+      "poverty_line_rupiah_s2": 386850.0,
+      "p1_depth_index": 1.51,
+      "urban_p0": 6.42,
+      "rural_p0": 13.13,
+      "urban_num_thousands": 71.53,
+      "rural_num_thousands": 232.9
+    },
+    "districts": [
+      {
+        "name": "Bombana",
+        "poverty_rate_percent": 10.14,
+        "poor_population_thousands": 20.15,
+        "poverty_line_rupiah": 441758.0
+      },
+      {
+        "name": "Buton",
+        "poverty_rate_percent": 13.46,
+        "poor_population_thousands": 13.89,
+        "poverty_line_rupiah": 372899.0
+      },
+      {
+        "name": "Buton Selatan",
+        "poverty_rate_percent": 13.64,
+        "poor_population_thousands": 11.0,
+        "poverty_line_rupiah": 356075.0
+      },
+      {
+        "name": "Buton Tengah",
+        "poverty_rate_percent": 13.4,
+        "poor_population_thousands": 12.61,
+        "poverty_line_rupiah": 358029.0
+      },
+      {
+        "name": "Buton Utara",
+        "poverty_rate_percent": 13.22,
+        "poor_population_thousands": 8.69,
+        "poverty_line_rupiah": 442786.0
+      },
+      {
+        "name": "Kolaka",
+        "poverty_rate_percent": 10.19,
+        "poor_population_thousands": 29.45,
+        "poverty_line_rupiah": 493073.0
+      },
+      {
+        "name": "Kolaka Timur",
+        "poverty_rate_percent": 12.57,
+        "poor_population_thousands": 18.99,
+        "poverty_line_rupiah": 548146.0
+      },
+      {
+        "name": "Kolaka Utara",
+        "poverty_rate_percent": 12.94,
+        "poor_population_thousands": 21.47,
+        "poverty_line_rupiah": 552220.0
+      },
+      {
+        "name": "Konawe",
+        "poverty_rate_percent": 12.78,
+        "poor_population_thousands": 33.04,
+        "poverty_line_rupiah": 462463.0
+      },
+      {
+        "name": "Konawe Kepulauan",
+        "poverty_rate_percent": 14.42,
+        "poor_population_thousands": 5.01,
+        "poverty_line_rupiah": 432435.0
+      },
+      {
+        "name": "Konawe Selatan",
+        "poverty_rate_percent": 11.18,
+        "poor_population_thousands": 37.4,
+        "poverty_line_rupiah": 370133.0
+      },
+      {
+        "name": "Konawe Utara",
+        "poverty_rate_percent": 11.89,
+        "poor_population_thousands": 8.19,
+        "poverty_line_rupiah": 425351.0
+      },
+      {
+        "name": "Kota Baubau",
+        "poverty_rate_percent": 6.83,
+        "poor_population_thousands": 12.41,
+        "poverty_line_rupiah": 462878.0
+      },
+      {
+        "name": "Kota Kendari",
+        "poverty_rate_percent": 4.18,
+        "poor_population_thousands": 18.38,
+        "poverty_line_rupiah": 554111.0
+      },
+      {
+        "name": "Muna",
+        "poverty_rate_percent": 12.4,
+        "poor_population_thousands": 28.81,
+        "poverty_line_rupiah": 451345.0
+      },
+      {
+        "name": "Muna Barat",
+        "poverty_rate_percent": 12.83,
+        "poor_population_thousands": 10.97,
+        "poverty_line_rupiah": 451711.0
+      },
+      {
+        "name": "Wakatobi",
+        "poverty_rate_percent": 13.4,
+        "poor_population_thousands": 13.98,
+        "poverty_line_rupiah": 371128.0
+      }
+    ]
+  },
+  "SULAWESI UTARA": {
+    "name": "SULAWESI UTARA",
+    "kpi": {
+      "poverty_rate_percent": 6.71,
+      "poverty_rate_percent_s2": 6.62,
+      "poor_population_thousands": 173.84,
+      "poor_population_thousands_s2": 172.13,
+      "poverty_line_rupiah": 412809.0,
+      "poverty_line_rupiah_s2": 434089.0,
+      "p1_depth_index": 0.96,
+      "urban_p0": 4.25,
+      "rural_p0": 9.95,
+      "urban_num_thousands": 62.62,
+      "rural_num_thousands": 111.22
+    },
+    "districts": [
+      {
+        "name": "Bolaang Mongondow",
+        "poverty_rate_percent": 6.98,
+        "poor_population_thousands": 18.4,
+        "poverty_line_rupiah": 454500.0
+      },
+      {
+        "name": "Bolaang Mongondow Selatan",
+        "poverty_rate_percent": 10.52,
+        "poor_population_thousands": 7.39,
+        "poverty_line_rupiah": 445063.0
+      },
+      {
+        "name": "Bolaang Mongondow Timur",
+        "poverty_rate_percent": 5.32,
+        "poor_population_thousands": 4.04,
+        "poverty_line_rupiah": 459824.0
+      },
+      {
+        "name": "Bolaang Mongondow Utara",
+        "poverty_rate_percent": 7.15,
+        "poor_population_thousands": 6.03,
+        "poverty_line_rupiah": 364581.0
+      },
+      {
+        "name": "Kepulauan Sangihe",
+        "poverty_rate_percent": 10.91,
+        "poor_population_thousands": 14.49,
+        "poverty_line_rupiah": 360933.0
+      },
+      {
+        "name": "Kepulauan Talaud",
+        "poverty_rate_percent": 8.34,
+        "poor_population_thousands": 7.95,
+        "poverty_line_rupiah": 396995.0
+      },
+      {
+        "name": "Kota Bitung",
+        "poverty_rate_percent": 5.81,
+        "poor_population_thousands": 13.57,
+        "poverty_line_rupiah": 557556.0
+      },
+      {
+        "name": "Kota Kotamobagu",
+        "poverty_rate_percent": 5.14,
+        "poor_population_thousands": 7.18,
+        "poverty_line_rupiah": 495416.0
+      },
+      {
+        "name": "Kota Manado",
+        "poverty_rate_percent": 4.99,
+        "poor_population_thousands": 21.73,
+        "poverty_line_rupiah": 592668.0
+      },
+      {
+        "name": "Kota Tomohon",
+        "poverty_rate_percent": 4.86,
+        "poor_population_thousands": 5.55,
+        "poverty_line_rupiah": 573165.0
+      },
+      {
+        "name": "Minahasa",
+        "poverty_rate_percent": 5.88,
+        "poor_population_thousands": 20.63,
+        "poverty_line_rupiah": 385934.0
+      },
+      {
+        "name": "Minahasa Selatan",
+        "poverty_rate_percent": 8.26,
+        "poor_population_thousands": 17.67,
+        "poverty_line_rupiah": 461640.0
+      },
+      {
+        "name": "Minahasa Tenggara",
+        "poverty_rate_percent": 10.31,
+        "poor_population_thousands": 11.09,
+        "poverty_line_rupiah": 426987.0
+      },
+      {
+        "name": "Minahasa Utara",
+        "poverty_rate_percent": 6.05,
+        "poor_population_thousands": 12.5,
+        "poverty_line_rupiah": 453321.0
+      },
+      {
+        "name": "Siau Tagulandang Biaro",
+        "poverty_rate_percent": 8.32,
+        "poor_population_thousands": 5.64,
+        "poverty_line_rupiah": 415648.0
+      }
+    ]
+  },
+  "SUMATERA BARAT": {
+    "name": "SUMATERA BARAT",
+    "kpi": {
+      "poverty_rate_percent": 5.35,
+      "poverty_rate_percent_s2": 5.31,
+      "poor_population_thousands": 312.35,
+      "poor_population_thousands_s2": 312.3,
+      "poverty_line_rupiah": 553733.0,
+      "poverty_line_rupiah_s2": 592911.0,
+      "p1_depth_index": 0.76,
+      "urban_p0": 3.91,
+      "rural_p0": 6.93,
+      "urban_num_thousands": 119.45,
+      "rural_num_thousands": 192.9
+    },
+    "districts": [
+      {
+        "name": "Agam",
+        "poverty_rate_percent": 5.97,
+        "poor_population_thousands": 30.57,
+        "poverty_line_rupiah": 570317.0
+      },
+      {
+        "name": "Dharmasraya",
+        "poverty_rate_percent": 4.61,
+        "poor_population_thousands": 13.52,
+        "poverty_line_rupiah": 633451.0
+      },
+      {
+        "name": "Kepulauan Mentawai",
+        "poverty_rate_percent": 13.22,
+        "poor_population_thousands": 13.74,
+        "poverty_line_rupiah": 474879.0
+      },
+      {
+        "name": "Kota Bukittinggi",
+        "poverty_rate_percent": 3.78,
+        "poor_population_thousands": 5.46,
+        "poverty_line_rupiah": 685824.0
+      },
+      {
+        "name": "Kota Padang",
+        "poverty_rate_percent": 3.63,
+        "poor_population_thousands": 37.38,
+        "poverty_line_rupiah": 767616.0
+      },
+      {
+        "name": "Kota Padang Panjang",
+        "poverty_rate_percent": 4.97,
+        "poor_population_thousands": 2.9,
+        "poverty_line_rupiah": 660705.0
+      },
+      {
+        "name": "Kota Pariaman",
+        "poverty_rate_percent": 3.83,
+        "poor_population_thousands": 3.63,
+        "poverty_line_rupiah": 634304.0
+      },
+      {
+        "name": "Kota Payakumbuh",
+        "poverty_rate_percent": 4.95,
+        "poor_population_thousands": 7.37,
+        "poverty_line_rupiah": 674813.0
+      },
+      {
+        "name": "Kota Sawah Lunto",
+        "poverty_rate_percent": 2.72,
+        "poor_population_thousands": 1.79,
+        "poverty_line_rupiah": 545725.0
+      },
+      {
+        "name": "Kota Solok",
+        "poverty_rate_percent": 2.91,
+        "poor_population_thousands": 2.31,
+        "poverty_line_rupiah": 593520.0
+      },
+      {
+        "name": "Lima Puluh Kota",
+        "poverty_rate_percent": 6.1,
+        "poor_population_thousands": 24.61,
+        "poverty_line_rupiah": 593402.0
+      },
+      {
+        "name": "Padang Pariaman",
+        "poverty_rate_percent": 5.86,
+        "poor_population_thousands": 25.08,
+        "poverty_line_rupiah": 590495.0
+      },
+      {
+        "name": "Pasaman",
+        "poverty_rate_percent": 6.02,
+        "poor_population_thousands": 18.0,
+        "poverty_line_rupiah": 524533.0
+      },
+      {
+        "name": "Pasaman Barat",
+        "poverty_rate_percent": 6.3,
+        "poor_population_thousands": 31.68,
+        "poverty_line_rupiah": 669360.0
+      },
+      {
+        "name": "Pesisir Selatan",
+        "poverty_rate_percent": 6.52,
+        "poor_population_thousands": 31.53,
+        "poverty_line_rupiah": 600161.0
+      },
+      {
+        "name": "Sijunjung",
+        "poverty_rate_percent": 5.15,
+        "poor_population_thousands": 13.55,
+        "poverty_line_rupiah": 574991.0
+      },
+      {
+        "name": "Solok",
+        "poverty_rate_percent": 6.52,
+        "poor_population_thousands": 25.23,
+        "poverty_line_rupiah": 579500.0
+      },
+      {
+        "name": "Solok Selatan",
+        "poverty_rate_percent": 6.0,
+        "poor_population_thousands": 11.44,
+        "poverty_line_rupiah": 558817.0
+      },
+      {
+        "name": "Tanah Datar",
+        "poverty_rate_percent": 3.59,
+        "poor_population_thousands": 12.57,
+        "poverty_line_rupiah": 564372.0
+      }
+    ]
+  },
+  "SUMATERA SELATAN": {
+    "name": "SUMATERA SELATAN",
+    "kpi": {
+      "poverty_rate_percent": 10.15,
+      "poverty_rate_percent_s2": 9.85,
+      "poor_population_thousands": 919.6,
+      "poor_population_thousands_s2": 898.24,
+      "poverty_line_rupiah": 436639.0,
+      "poverty_line_rupiah_s2": 458362.0,
+      "p1_depth_index": 1.45,
+      "urban_p0": 9.1,
+      "rural_p0": 10.79,
+      "urban_num_thousands": 314.49,
+      "rural_num_thousands": 605.12
+    },
+    "districts": [
+      {
+        "name": "Banyu Asin",
+        "poverty_rate_percent": 8.48,
+        "poor_population_thousands": 77.63,
+        "poverty_line_rupiah": 560840.0
+      },
+      {
+        "name": "Empat Lawang",
+        "poverty_rate_percent": 10.48,
+        "poor_population_thousands": 27.88,
+        "poverty_line_rupiah": 440405.0
+      },
+      {
+        "name": "Kota Lubuklinggau",
+        "poverty_rate_percent": 10.49,
+        "poor_population_thousands": 26.35,
+        "poverty_line_rupiah": 632783.0
+      },
+      {
+        "name": "Kota Pagar Alam",
+        "poverty_rate_percent": 7.7,
+        "poor_population_thousands": 11.2,
+        "poverty_line_rupiah": 444962.0
+      },
+      {
+        "name": "Kota Palembang",
+        "poverty_rate_percent": 9.04,
+        "poor_population_thousands": 162.31,
+        "poverty_line_rupiah": 699920.0
+      },
+      {
+        "name": "Kota Prabumulih",
+        "poverty_rate_percent": 9.75,
+        "poor_population_thousands": 19.89,
+        "poverty_line_rupiah": 687666.0
+      },
+      {
+        "name": "Lahat",
+        "poverty_rate_percent": 13.69,
+        "poor_population_thousands": 58.66,
+        "poverty_line_rupiah": 606881.0
+      },
+      {
+        "name": "Muara Enim",
+        "poverty_rate_percent": 9.45,
+        "poor_population_thousands": 64.82,
+        "poverty_line_rupiah": 512439.0
+      },
+      {
+        "name": "Musi Banyuasin",
+        "poverty_rate_percent": 9.97,
+        "poor_population_thousands": 69.61,
+        "poverty_line_rupiah": 627094.0
+      },
+      {
+        "name": "Musi Rawas",
+        "poverty_rate_percent": 12.67,
+        "poor_population_thousands": 54.7,
+        "poverty_line_rupiah": 616298.0
+      },
+      {
+        "name": "Musi Rawas Utara",
+        "poverty_rate_percent": 15.25,
+        "poor_population_thousands": 31.25,
+        "poverty_line_rupiah": 666294.0
+      },
+      {
+        "name": "Ogan Ilir",
+        "poverty_rate_percent": 11.69,
+        "poor_population_thousands": 53.21,
+        "poverty_line_rupiah": 614656.0
+      },
+      {
+        "name": "Ogan Komering Ilir",
+        "poverty_rate_percent": 11.84,
+        "poor_population_thousands": 105.26,
+        "poverty_line_rupiah": 493783.0
+      },
+      {
+        "name": "Ogan Komering Ulu",
+        "poverty_rate_percent": 10.08,
+        "poor_population_thousands": 39.58,
+        "poverty_line_rupiah": 588225.0
+      },
+      {
+        "name": "Ogan Komering Ulu Selatan",
+        "poverty_rate_percent": 9.17,
+        "poor_population_thousands": 35.49,
+        "poverty_line_rupiah": 456280.0
+      },
+      {
+        "name": "Ogan Komering Ulu Timur",
+        "poverty_rate_percent": 8.86,
+        "poor_population_thousands": 62.89,
+        "poverty_line_rupiah": 453488.0
+      },
+      {
+        "name": "Penukal Abab Lematang Ilir",
+        "poverty_rate_percent": 9.27,
+        "poor_population_thousands": 18.87,
+        "poverty_line_rupiah": 530583.0
+      }
+    ]
+  },
+  "SUMATERA UTARA": {
+    "name": "SUMATERA UTARA",
+    "kpi": {
+      "poverty_rate_percent": 7.36,
+      "poverty_rate_percent_s2": 7.24,
+      "poor_population_thousands": 1140.25,
+      "poor_population_thousands_s2": 1128.06,
+      "poverty_line_rupiah": 509871.0,
+      "poverty_line_rupiah_s2": 551093.0,
+      "p1_depth_index": 1.05,
+      "urban_p0": 7.1,
+      "rural_p0": 7.71,
+      "urban_num_thousands": 636.55,
+      "rural_num_thousands": 503.71
+    },
+    "districts": [
+      {
+        "name": "Asahan",
+        "poverty_rate_percent": 7.18,
+        "poor_population_thousands": 54.57,
+        "poverty_line_rupiah": 469559.0
+      },
+      {
+        "name": "Batu Bara",
+        "poverty_rate_percent": 10.1,
+        "poor_population_thousands": 44.28,
+        "poverty_line_rupiah": 613493.0
+      },
+      {
+        "name": "Dairi",
+        "poverty_rate_percent": 6.98,
+        "poor_population_thousands": 20.05,
+        "poverty_line_rupiah": 521738.0
+      },
+      {
+        "name": "Deli Serdang",
+        "poverty_rate_percent": 3.11,
+        "poor_population_thousands": 77.7,
+        "poverty_line_rupiah": 525433.0
+      },
+      {
+        "name": "Humbang Hasundutan",
+        "poverty_rate_percent": 7.8,
+        "poor_population_thousands": 15.62,
+        "poverty_line_rupiah": 503769.0
+      },
+      {
+        "name": "Karo",
+        "poverty_rate_percent": 6.66,
+        "poor_population_thousands": 30.67,
+        "poverty_line_rupiah": 678885.0
+      },
+      {
+        "name": "Kota Binjai",
+        "poverty_rate_percent": 4.71,
+        "poor_population_thousands": 13.87,
+        "poverty_line_rupiah": 600451.0
+      },
+      {
+        "name": "Kota Gunungsitoli",
+        "poverty_rate_percent": 13.85,
+        "poor_population_thousands": 21.05,
+        "poverty_line_rupiah": 521961.0
+      },
+      {
+        "name": "Kota Medan",
+        "poverty_rate_percent": 7.25,
+        "poor_population_thousands": 171.6,
+        "poverty_line_rupiah": 721547.0
+      },
+      {
+        "name": "Kota Padangsidimpuan",
+        "poverty_rate_percent": 5.61,
+        "poor_population_thousands": 13.57,
+        "poverty_line_rupiah": 578095.0
+      },
+      {
+        "name": "Kota Pematang Siantar",
+        "poverty_rate_percent": 6.24,
+        "poor_population_thousands": 16.53,
+        "poverty_line_rupiah": 722851.0
+      },
+      {
+        "name": "Kota Sibolga",
+        "poverty_rate_percent": 10.28,
+        "poor_population_thousands": 9.02,
+        "poverty_line_rupiah": 637141.0
+      },
+      {
+        "name": "Kota Tanjung Balai",
+        "poverty_rate_percent": 10.67,
+        "poor_population_thousands": 20.02,
+        "poverty_line_rupiah": 619558.0
+      },
+      {
+        "name": "Kota Tebing Tinggi",
+        "poverty_rate_percent": 8.74,
+        "poor_population_thousands": 15.36,
+        "poverty_line_rupiah": 691270.0
+      },
+      {
+        "name": "Labuhan Batu",
+        "poverty_rate_percent": 7.37,
+        "poor_population_thousands": 40.49,
+        "poverty_line_rupiah": 575408.0
+      },
+      {
+        "name": "Labuhan Batu Selatan",
+        "poverty_rate_percent": 6.8,
+        "poor_population_thousands": 26.12,
+        "poverty_line_rupiah": 550141.0
+      },
+      {
+        "name": "Labuhan Batu Utara",
+        "poverty_rate_percent": 8.42,
+        "poor_population_thousands": 32.09,
+        "poverty_line_rupiah": 629870.0
+      },
+      {
+        "name": "Langkat",
+        "poverty_rate_percent": 8.42,
+        "poor_population_thousands": 90.28,
+        "poverty_line_rupiah": 528073.0
+      },
+      {
+        "name": "Mandailing Natal",
+        "poverty_rate_percent": 7.91,
+        "poor_population_thousands": 37.16,
+        "poverty_line_rupiah": 537240.0
+      },
+      {
+        "name": "Nias",
+        "poverty_rate_percent": 14.51,
+        "poor_population_thousands": 21.23,
+        "poverty_line_rupiah": 541016.0
+      },
+      {
+        "name": "Nias Barat",
+        "poverty_rate_percent": 22.47,
+        "poor_population_thousands": 18.64,
+        "poverty_line_rupiah": 564416.0
+      },
+      {
+        "name": "Nias Selatan",
+        "poverty_rate_percent": 16.16,
+        "poor_population_thousands": 54.29,
+        "poverty_line_rupiah": 428859.0
+      },
+      {
+        "name": "Nias Utara",
+        "poverty_rate_percent": 20.79,
+        "poor_population_thousands": 29.65,
+        "poverty_line_rupiah": 551434.0
+      },
+      {
+        "name": "Padang Lawas",
+        "poverty_rate_percent": 7.32,
+        "poor_population_thousands": 23.69,
+        "poverty_line_rupiah": 499761.0
+      },
+      {
+        "name": "Padang Lawas Utara",
+        "poverty_rate_percent": 8.04,
+        "poor_population_thousands": 24.8,
+        "poverty_line_rupiah": 519411.0
+      },
+      {
+        "name": "Pakpak Bharat",
+        "poverty_rate_percent": 6.4,
+        "poor_population_thousands": 3.53,
+        "poverty_line_rupiah": 426571.0
+      },
+      {
+        "name": "Samosir",
+        "poverty_rate_percent": 10.79,
+        "poor_population_thousands": 13.8,
+        "poverty_line_rupiah": 473942.0
+      },
+      {
+        "name": "Serdang Bedagai",
+        "poverty_rate_percent": 6.18,
+        "poor_population_thousands": 38.14,
+        "poverty_line_rupiah": 535422.0
+      },
+      {
+        "name": "Simalungun",
+        "poverty_rate_percent": 6.91,
+        "poor_population_thousands": 61.12,
+        "poverty_line_rupiah": 513793.0
+      },
+      {
+        "name": "Tapanuli Selatan",
+        "poverty_rate_percent": 6.16,
+        "poor_population_thousands": 17.77,
+        "poverty_line_rupiah": 527232.0
+      },
+      {
+        "name": "Tapanuli Tengah",
+        "poverty_rate_percent": 11.03,
+        "poor_population_thousands": 46.79,
+        "poverty_line_rupiah": 546223.0
+      },
+      {
+        "name": "Tapanuli Utara",
+        "poverty_rate_percent": 7.47,
+        "poor_population_thousands": 23.29,
+        "poverty_line_rupiah": 549677.0
+      },
+      {
+        "name": "Toba Samosir",
+        "poverty_rate_percent": 7.21,
+        "poor_population_thousands": 13.46,
+        "poverty_line_rupiah": 549563.0
+      }
+    ]
+  }
+}
