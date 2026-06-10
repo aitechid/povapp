@@ -6,6 +6,14 @@ Portal Penanggulangan Kemiskinan adalah platform analisis data spasial dan kuant
 
 ---
 
+## 🎥 Video Panduan & Demo Aplikasi
+
+Silakan klik gambar di bawah ini untuk menonton demonstrasi penggunaan aplikasi langsung di YouTube:
+
+[![Video Demo Portal Penanggulangan Kemiskinan](https://img.youtube.com/vi/kJSkr-T9_qE/maxresdefault.jpg)](https://www.youtube.com/watch?v=kJSkr-T9_qE)
+
+---
+
 ## 📸 Tampilan Aplikasi
 
 | 📊 Dashboard Nasional | 🗺️ Analisis Provinsi |
