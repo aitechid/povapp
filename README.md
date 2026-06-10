@@ -2,6 +2,20 @@
 
 Portal Penanggulangan Kemiskinan adalah platform analisis data spasial dan kuantitatif terintegrasi yang dirancang untuk mendukung pengambilan keputusan kebijakan sosial secara presisi. Platform ini memetakan, menganalisis, dan mengeksplorasi data **Data Terpadu** nasional yang dinamis serta data kemiskinan makro dari Badan Pusat Statistik (BPS).
 
+🌐 **Demo Aplikasi**: Untuk melihat demo aplikasi secara langsung, silakan mengunjungi halaman: [https://povdemo.aitech.id](https://povdemo.aitech.id)
+
+---
+
+## 📸 Tampilan Aplikasi
+
+| 📊 Dashboard Nasional | 🗺️ Analisis Provinsi |
+| :---: | :---: |
+| ![Dashboard Nasional](poverty-portal/public/assets/nasional.png) | ![Analisis Provinsi](poverty-portal/public/assets/province.png) |
+
+| 📍 Peta Sebaran Spasial |
+| :---: |
+| ![Peta Sebaran Spasial](poverty-portal/public/assets/sebaran.png) |
+
 ---
 
 ## 🚀 Fitur Utama
