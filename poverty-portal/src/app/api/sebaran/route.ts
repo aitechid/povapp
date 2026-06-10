@@ -105,7 +105,7 @@ export async function GET(request: Request) {
     const whereClause = sqlConditions.length > 0 ? `WHERE ${sqlConditions.join(" AND ")}` : "";
 
     // Execute GROUP BY query directly against SQLite
-    const query = db.prepare(`
+    const query = db!.prepare(`
       SELECT provinsi, target, COUNT(*) as total 
       FROM household_pbdt 
       ${whereClause} 
@@ -128,8 +128,9 @@ export async function GET(request: Request) {
       if (provinceDataMap[provName]) {
         const d = row.target;
         if (d >= 1 && d <= 4) {
-          provinceDataMap[provName][`d${d}`] = row.total;
-          decilesTotal[`d${d}`] += row.total;
+          const key = `d${d}` as 'd1' | 'd2' | 'd3' | 'd4';
+          provinceDataMap[provName][key] = row.total;
+          decilesTotal[key] += row.total;
         }
       }
     }
@@ -167,7 +168,7 @@ export async function GET(request: Request) {
       };
     });
 
-    db.close();
+    db!.close();
 
     return NextResponse.json({
       success: true,

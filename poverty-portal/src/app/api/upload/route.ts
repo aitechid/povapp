@@ -36,7 +36,7 @@ export async function POST(request: Request) {
     fs.writeFileSync(destPath, buffer);
 
     // Inspect uploaded file for metadata
-    const meta = inspectFile(destPath, fileName);
+    const meta = inspectFile(destPath, fileName) as any;
     if (!meta) {
       // Remove bad database file
       try { fs.unlinkSync(destPath); } catch (_) {}

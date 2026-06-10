@@ -20,7 +20,7 @@ export async function POST(request: Request) {
     db = new DatabaseSync(dbPath);
 
     // 1. Fetch valid columns for validation (whitelist to prevent SQL Injection)
-    const metaQuery = db.prepare(`SELECT column_name FROM ${metaTableName}`);
+    const metaQuery = db!.prepare(`SELECT column_name FROM ${metaTableName}`);
     const validCols = new Set(
       (metaQuery.all() as { column_name: string }[]).map(row => row.column_name.toLowerCase())
     );
@@ -87,16 +87,16 @@ export async function POST(request: Request) {
       countSql += ` WHERE ${sqlConditions.join(" AND ")}`;
     }
     
-    const countStmt = db.prepare(countSql);
+    const countStmt = db!.prepare(countSql);
     const countResult = countStmt.get(...params) as { total: number };
     const totalRows = countResult?.total || 0;
 
     // 4. Execute main query
-    const stmt = db.prepare(sql);
+    const stmt = db!.prepare(sql);
     const rows = stmt.all(...params) as Record<string, any>[];
 
     // Close database connection
-    db.close();
+    db!.close();
     db = null;
 
     // Calculate execution time

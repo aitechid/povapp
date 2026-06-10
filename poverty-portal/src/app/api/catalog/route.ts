@@ -26,7 +26,7 @@ export function inspectFile(filePath: string, fileName: string) {
         // Get row count
         let rowCount = 0;
         try {
-          const countStmt = db.prepare(`SELECT COUNT(*) as total FROM ${tableName}`);
+          const countStmt = db!.prepare(`SELECT COUNT(*) as total FROM ${tableName}`);
           const countRes = countStmt.get() as { total: number };
           rowCount = countRes?.total || 0;
         } catch (err) {
@@ -36,7 +36,7 @@ export function inspectFile(filePath: string, fileName: string) {
         // Get column count
         let colCount = 0;
         try {
-          const pragmaStmt = db.prepare(`PRAGMA table_info(${tableName})`);
+          const pragmaStmt = db!.prepare(`PRAGMA table_info(${tableName})`);
           const info = pragmaStmt.all();
           colCount = info.length;
         } catch (err) {
@@ -50,7 +50,7 @@ export function inspectFile(filePath: string, fileName: string) {
         };
       });
 
-      db.close();
+      db!.close();
       db = null;
 
       // Quality check simulation (or logic-based)

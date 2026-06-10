@@ -17,7 +17,7 @@ export async function GET(request: Request) {
     if (indicator === "education") {
       // Calculate education vs age distribution in individual_pbdt
       // b4_k3 is the target decile (1-4)
-      const query = db.prepare(`
+      const query = db!.prepare(`
         SELECT 
           SUM(h_nage65up) as age_senior,
           SUM(h_nage2064) as age_adult,
@@ -65,7 +65,7 @@ export async function GET(request: Request) {
         }
       ];
 
-      db.close();
+      db!.close();
       return NextResponse.json({
         success: true,
         indicator,
@@ -78,7 +78,7 @@ export async function GET(request: Request) {
 
     if (indicator === "assets") {
       // Fetch asset ownership counts from household_pbdt
-      const query = db.prepare(`
+      const query = db!.prepare(`
         SELECT 
           COUNT(*) as total,
           SUM(h_aset_motorcycle) as motorcycle,
@@ -112,7 +112,7 @@ export async function GET(request: Request) {
         }
       ];
 
-      db.close();
+      db!.close();
       return NextResponse.json({
         success: true,
         indicator,
@@ -125,7 +125,7 @@ export async function GET(request: Request) {
 
     if (indicator === "housing") {
       // Fetch housing characteristics (flooring, walls)
-      const query = db.prepare(`
+      const query = db!.prepare(`
         SELECT 
           COUNT(*) as total,
           SUM(h_tfloor1) as floor_soil,
@@ -160,7 +160,7 @@ export async function GET(request: Request) {
         }
       ];
 
-      db.close();
+      db!.close();
       return NextResponse.json({
         success: true,
         indicator,
@@ -171,7 +171,7 @@ export async function GET(request: Request) {
       });
     }
 
-    db.close();
+    db!.close();
     return NextResponse.json({ success: false, error: "Indicator not supported" }, { status: 400 });
 
   } catch (err: any) {
